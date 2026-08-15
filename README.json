@@ -58,7 +58,7 @@
             "last_commit": "2026-07-22T03:30:04Z",
             "owner": "fabston",
             "repo": "TradingView-Webhook-Bot",
-            "stars": 1836
+            "stars": 1837
           }
         },
         {
@@ -242,7 +242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:12:08.640Z",
+    "last_updated": "2026-08-15T21:04:32.565Z",
     "original_repository": "pAulseperformance/awesome-pinescript",
     "original_repository_sha": "390beb3cf68e629a4279b6d035456aef67873bc8",
     "enhanced_repository": "enhansome/enhansome-pinescript",
