@@ -64,7 +64,7 @@
 
 ### Collections
 
-* [Pine Script Indicators Collection](https://github.com/everget/tradingview-pinescript-indicators) ⭐ 878 | 🐛 0 | 📅 2026-08-10 - *A collection of various technical indicators.*
+* [Pine Script Indicators Collection](https://github.com/everget/tradingview-pinescript-indicators) ⭐ 879 | 🐛 0 | 📅 2026-08-10 - *A collection of various technical indicators.*
 * [Pine Script To ThinkScript Repo](https://github.com/bingit2/TradingView-to-ThinkorSwim) ⭐ 144 | 🐛 0 | 📅 2021-01-30 - *Repository of Pine Script Indicators converted to TOS ThinkScript*
 * [Pine Coders Publications](https://www.tradingview.com/u/PineCoders/#published-scripts) - *A plethora of useful techniques developed by the Pine Coders Account*
 * [Traderslist](https://www.traderslist.io) - *Discover trading indicators Trading Indicators, Tools & Algorithms*
@@ -201,15 +201,15 @@
 
 ## Contributing
 
-* [How to Contribute](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/CONTRIBUTING.md) ⭐ 1,844 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to contribute to the repository.*
-* [Translation Guide](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/TRANSLATION.md) ⭐ 1,844 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to help translate the repository to your language.*
+* [How to Contribute](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/CONTRIBUTING.md) ⭐ 1,845 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to contribute to the repository.*
+* [Translation Guide](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/TRANSLATION.md) ⭐ 1,845 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to help translate the repository to your language.*
 * [Pine Script Docs](https://github.com/tradingview/pine_script_docs) - *Found a typo or a bug in the Official Pine Script Documentaion? Drop a PR here.*
 
 <a name="License" />
 
 ## License
 
-* [MIT License](https://github.com/pAulseperformance/awesome-pinescript/blob/master/LICENSE) ⭐ 1,844 | 🐛 8 | 📅 2026-02-28 - *The code and content in this repository is licensed under the MIT License. See the LICENSE file for more information.*
+* [MIT License](https://github.com/pAulseperformance/awesome-pinescript/blob/master/LICENSE) ⭐ 1,845 | 🐛 8 | 📅 2026-02-28 - *The code and content in this repository is licensed under the MIT License. See the LICENSE file for more information.*
 
 ***
 
