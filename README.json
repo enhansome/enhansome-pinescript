@@ -1,181 +1,197 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pine Script Indicators Collection",
+              "description": "A collection of various technical indicators.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147809279,
+                "language": null,
+                "last_commit": "2026-08-10T03:54:27Z",
+                "owner": "everget",
+                "repo": "tradingview-pinescript-indicators",
+                "stars": 878
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pine Script To ThinkScript Repo",
+              "description": "Repository of Pine Script Indicators converted to TOS ThinkScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164349880,
+                "language": null,
+                "last_commit": "2021-01-30T03:05:07Z",
+                "owner": "bingit2",
+                "repo": "TradingView-to-ThinkorSwim",
+                "stars": 144
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Collections"
+        }
+      ],
       "title": "Indicators"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Pine Script Indicators Collection",
-          "description": "A collection of various technical indicators.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-10T03:54:27Z",
-            "owner": "everget",
-            "repo": "tradingview-pinescript-indicators",
-            "stars": 878
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pine Script To ThinkScript Repo",
-          "description": "Repository of Pine Script Indicators converted to TOS ThinkScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-01-30T03:05:07Z",
-            "owner": "bingit2",
-            "repo": "TradingView-to-ThinkorSwim",
-            "stars": 144
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python Webhook Alert Provider",
+                  "description": "The TradingView Webhook Bot listens to TradingView alerts via webhooks using flask. All alerts can be instantly sent to Telegram, Discord, Twitter and/or Email.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 257615431,
+                    "language": "Python",
+                    "last_commit": "2026-07-22T03:30:04Z",
+                    "owner": "fabston",
+                    "repo": "TradingView-Webhook-Bot",
+                    "stars": 1840
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Misc Collection",
+                  "description": "This repo includes various python crypto bots with a tradingview alert bot.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 135677511,
+                    "language": "Python",
+                    "last_commit": "2023-06-26T17:04:27Z",
+                    "owner": "Roibal",
+                    "repo": "Cryptocurrency-Trading-Bots-Python-Beginner-Advance",
+                    "stars": 1441
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Python TradingView TA",
+                  "description": "Unofficial TradingView technical analysis API wrapper.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 262501214,
+                    "language": "Python",
+                    "last_commit": "2024-03-23T15:11:28Z",
+                    "owner": "AnalyzerREST",
+                    "repo": "python-tradingview-ta",
+                    "stars": 1247
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Python Bybit Pine Bot",
+                  "description": "Python based Trading Bot that uses TradingView.com webhook JSON alerts to place orders(buy/sell/close/manage positions/TP/SL/TS etc.) on Bybit.com.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 284509910,
+                    "language": "Python",
+                    "last_commit": "2023-02-16T02:09:55Z",
+                    "owner": "Mtemi",
+                    "repo": "Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts",
+                    "stars": 518
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Python Pine Bot Client",
+                  "description": "Client implementation of trading bot that uses Pine Script and Python.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 172844158,
+                    "language": "Python",
+                    "last_commit": "2019-03-05T05:02:12Z",
+                    "owner": "kzh-dev",
+                    "repo": "pine-bot-client",
+                    "stars": 201
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Quantium Signal",
+                  "description": "Quantium Signal is a self-hosted SMTP server that allows the use of TradingView alerts without the premium plan.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 936704575,
+                    "language": "Python",
+                    "last_commit": "2025-02-25T12:04:52Z",
+                    "owner": "quantium-ai",
+                    "repo": "signal",
+                    "stars": 16
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Fundingrate Backend",
+                  "description": "Backend service converting tradingview alerts into action.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 207034179,
+                    "language": "JavaScript",
+                    "last_commit": "2020-03-31T00:24:04Z",
+                    "owner": "fundingrate",
+                    "repo": "tradingview-webhooks",
+                    "stars": 54
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Instabot Trader",
+                  "description": "Server Side bot that powers Alertatron. A simple tool to convert text messages sent over HTTP or via a Telegram bot into a set of trading orders, to a variety of exchanges (Bitfinex, Deribit and Coinbase Pro).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 156569433,
+                    "language": "JavaScript",
+                    "last_commit": "2018-11-07T08:32:36Z",
+                    "owner": "ottodevs",
+                    "repo": "instabot-trader",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Javascript"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open Source"
         }
       ],
-      "title": "Collections"
+      "title": "Automated Order Execution"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Open Source"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Python Webhook Alert Provider",
-          "description": "The TradingView Webhook Bot listens to TradingView alerts via webhooks using flask. All alerts can be instantly sent to Telegram, Discord, Twitter and/or Email.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-22T03:30:04Z",
-            "owner": "fabston",
-            "repo": "TradingView-Webhook-Bot",
-            "stars": 1840
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Misc Collection",
-          "description": "This repo includes various python crypto bots with a tradingview alert bot.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-26T17:04:27Z",
-            "owner": "Roibal",
-            "repo": "Cryptocurrency-Trading-Bots-Python-Beginner-Advance",
-            "stars": 1441
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python TradingView TA",
-          "description": "Unofficial TradingView technical analysis API wrapper.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-03-23T15:11:28Z",
-            "owner": "AnalyzerREST",
-            "repo": "python-tradingview-ta",
-            "stars": 1247
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Bybit Pine Bot",
-          "description": "Python based Trading Bot that uses TradingView.com webhook JSON alerts to place orders(buy/sell/close/manage positions/TP/SL/TS etc.) on Bybit.com.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-16T02:09:55Z",
-            "owner": "Mtemi",
-            "repo": "Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts",
-            "stars": 518
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python Pine Bot Client",
-          "description": "Client implementation of trading bot that uses Pine Script and Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-03-05T05:02:12Z",
-            "owner": "kzh-dev",
-            "repo": "pine-bot-client",
-            "stars": 201
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quantium Signal",
-          "description": "Quantium Signal is a self-hosted SMTP server that allows the use of TradingView alerts without the premium plan.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-25T12:04:52Z",
-            "owner": "quantium-ai",
-            "repo": "signal",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Fundingrate Backend",
-          "description": "Backend service converting tradingview alerts into action.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-03-31T00:24:04Z",
-            "owner": "fundingrate",
-            "repo": "tradingview-webhooks",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Instabot Trader",
-          "description": "Server Side bot that powers Alertatron. A simple tool to convert text messages sent over HTTP or via a Telegram bot into a set of trading orders, to a variety of exchanges (Bitfinex, Deribit and Coinbase Pro).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-11-07T08:32:36Z",
-            "owner": "ottodevs",
-            "repo": "instabot-trader",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Frostybot-js",
-          "description": "Frostybot-JS is a cryptocurrency trading API endpoint, designed to execute webhook or REST requests as orders on a variety of well-known exchanges.",
-          "children": []
-        }
-      ],
-      "title": "Javascript"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -184,24 +200,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1129938098,
             "language": "TypeScript",
             "last_commit": "2026-07-14T17:20:29Z",
             "owner": "revanthpobala",
             "repo": "pinescript-vscode-extension",
             "stars": 32
           }
-        },
-        {
-          "node_type": "item",
-          "title": "pine-script-visual-studio-code",
-          "description": "Sublime Text/VSCode package for Pine Script v5 with a few VSCode-specific features added.",
-          "children": []
         }
       ],
       "title": "Development Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -210,6 +221,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288394937,
             "language": null,
             "last_commit": "2026-02-28T04:03:37Z",
             "owner": "pAulseperformance",
@@ -224,26 +236,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288394937,
             "language": null,
             "last_commit": "2026-02-28T04:03:37Z",
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
             "stars": 1844
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Pine Script Docs",
-          "description": "Found a typo or a bug in the Official Pine Script Documentaion? Drop a PR here.",
-          "children": []
         }
       ],
       "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:09:41.732Z",
+    "last_updated": "2026-08-19T12:47:37.402Z",
     "original_repository": "pAulseperformance/awesome-pinescript",
+    "original_repository_id": 288394937,
     "original_repository_sha": "390beb3cf68e629a4279b6d035456aef67873bc8",
     "enhanced_repository": "enhansome/enhansome-pinescript",
     "enhanced_repository_description": null,
