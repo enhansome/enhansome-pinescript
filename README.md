@@ -79,7 +79,7 @@
 * [Indices Sector Sigma Spikes](https://www.tradingview.com/script/B3aLMAHh-Indices-Sector-SigmaSpikes/) - *This screener aims to provide Bird-Eye view across sector indices, to find which sector is having significant or 'out-of-norm' move in either direction.*
 * [Mean Reversion Channel](https://www.tradingview.com/script/Lr5QD0kK-Screener-Mean-Reversion-Channel/) - *The screener works by scanning through up to 40 symbols and list down symbols that are currently within Overbought/Oversold Zone as defined by Mean Reversion Channel indicator.*
 * [120 ticker Screener](https://www.tradingview.com/script/0h0gKNcy-120x-ticker-screener-composite-tickers/) - *In specific circumstances, it is possible to extract data, far above the 40 \`request.*()\` call limit for 1 single script.\*
-* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,137 | 🐛 1 | 🌐 Python | 📅 2026-08-21 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
+* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,138 | 🐛 1 | 🌐 Python | 📅 2026-08-22 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
 
 ### Math
 
@@ -213,4 +213,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
