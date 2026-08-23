@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-10T03:54:27Z",
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 879
+                "stars": 881
               }
             },
             {
@@ -226,7 +226,7 @@
             "last_commit": "2026-02-28T04:03:37Z",
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1848
+            "stars": 1849
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-02-28T04:03:37Z",
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1848
+            "stars": 1849
           }
         }
       ],
@@ -249,7 +249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:07:55.092Z",
+    "last_updated": "2026-08-23T21:05:30.041Z",
     "original_repository": "pAulseperformance/awesome-pinescript",
     "original_repository_id": 288394937,
     "original_repository_sha": "390beb3cf68e629a4279b6d035456aef67873bc8",
