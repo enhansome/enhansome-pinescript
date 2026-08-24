@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-10T03:54:27Z",
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 881
+                "stars": 882
               }
             },
             {
@@ -39,6 +39,28 @@
           "description": null,
           "node_type": "group",
           "title": "Collections"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TradingView-Screener",
+              "description": "A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 497854996,
+                "language": "Python",
+                "last_commit": "2026-08-24T07:48:02Z",
+                "owner": "shner-elmo",
+                "repo": "TradingView-Screener",
+                "stars": 1138
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Screeners"
         }
       ],
       "title": "Indicators"
@@ -62,7 +84,7 @@
                     "last_commit": "2026-07-22T03:30:04Z",
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1841
+                    "stars": 1842
                   }
                 },
                 {
@@ -181,6 +203,28 @@
               "description": null,
               "node_type": "group",
               "title": "Javascript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Autoview Chrome Docker Bot",
+                  "description": "Dockerized Autoview Extension on a VPS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 134629661,
+                    "language": "JavaScript",
+                    "last_commit": "2023-04-24T22:38:37Z",
+                    "owner": "IAMtheIAM",
+                    "repo": "autoview-tradingview-chrome-docker-bot",
+                    "stars": 88
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Google Chrome"
             }
           ],
           "description": null,
@@ -226,7 +270,7 @@
             "last_commit": "2026-02-28T04:03:37Z",
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1849
+            "stars": 1850
           }
         },
         {
@@ -241,7 +285,7 @@
             "last_commit": "2026-02-28T04:03:37Z",
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1849
+            "stars": 1850
           }
         }
       ],
@@ -249,7 +293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:05:30.041Z",
+    "last_updated": "2026-08-24T14:09:14.969Z",
     "original_repository": "pAulseperformance/awesome-pinescript",
     "original_repository_id": 288394937,
     "original_repository_sha": "390beb3cf68e629a4279b6d035456aef67873bc8",
