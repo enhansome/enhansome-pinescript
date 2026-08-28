@@ -18,7 +18,8 @@
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
                 "stars": 887
-              }
+              },
+              "first_seen": "2026-08-28T04:55:39.421Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "bingit2",
                 "repo": "TradingView-to-ThinkorSwim",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T04:55:39.421Z"
             }
           ],
           "description": null,
@@ -51,11 +53,12 @@
                 "archived": false,
                 "id": 497854996,
                 "language": "Python",
-                "last_commit": "2026-08-26T07:36:21Z",
+                "last_commit": "2026-08-27T17:57:33Z",
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1141
-              }
+                "stars": 1142
+              },
+              "first_seen": "2026-08-28T04:55:39.421Z"
             }
           ],
           "description": null,
@@ -85,7 +88,8 @@
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
                     "stars": 1846
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:55:39.421Z"
                 },
                 {
                   "node_type": "item",
@@ -100,7 +104,8 @@
                     "owner": "Roibal",
                     "repo": "Cryptocurrency-Trading-Bots-Python-Beginner-Advance",
                     "stars": 1441
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:55:39.421Z"
                 },
                 {
                   "node_type": "item",
@@ -115,7 +120,8 @@
                     "owner": "AnalyzerREST",
                     "repo": "python-tradingview-ta",
                     "stars": 1247
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:55:39.421Z"
                 },
                 {
                   "node_type": "item",
@@ -130,7 +136,8 @@
                     "owner": "Mtemi",
                     "repo": "Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts",
                     "stars": 518
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:55:39.421Z"
                 },
                 {
                   "node_type": "item",
@@ -145,7 +152,8 @@
                     "owner": "kzh-dev",
                     "repo": "pine-bot-client",
                     "stars": 201
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:55:39.421Z"
                 },
                 {
                   "node_type": "item",
@@ -160,7 +168,8 @@
                     "owner": "quantium-ai",
                     "repo": "signal",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:55:39.421Z"
                 }
               ],
               "description": null,
@@ -182,7 +191,8 @@
                     "owner": "fundingrate",
                     "repo": "tradingview-webhooks",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:55:39.421Z"
                 },
                 {
                   "node_type": "item",
@@ -197,7 +207,8 @@
                     "owner": "ottodevs",
                     "repo": "instabot-trader",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:55:39.421Z"
                 }
               ],
               "description": null,
@@ -219,7 +230,8 @@
                     "owner": "IAMtheIAM",
                     "repo": "autoview-tradingview-chrome-docker-bot",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:55:39.421Z"
                 }
               ],
               "description": null,
@@ -250,7 +262,8 @@
             "owner": "revanthpobala",
             "repo": "pinescript-vscode-extension",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T04:55:39.421Z"
         }
       ],
       "title": "Development Tools"
@@ -271,7 +284,8 @@
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
             "stars": 1853
-          }
+          },
+          "first_seen": "2026-08-28T04:55:39.421Z"
         },
         {
           "node_type": "item",
@@ -286,14 +300,15 @@
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
             "stars": 1853
-          }
+          },
+          "first_seen": "2026-08-28T04:55:39.421Z"
         }
       ],
       "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:33.326Z",
+    "last_updated": "2026-08-28T04:55:39.421Z",
     "original_repository_info": {
       "archived": false,
       "id": 288394937,
