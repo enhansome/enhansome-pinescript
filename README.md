@@ -76,7 +76,7 @@
 
 ### Screeners
 
-* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,142 | 🐛 1 | 🌐 Python | 📅 2026-08-28 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
+* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,143 | 🐛 1 | 🌐 Python | 📅 2026-08-29 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
 * [Indices Sector Sigma Spikes](https://www.tradingview.com/script/B3aLMAHh-Indices-Sector-SigmaSpikes/) - *This screener aims to provide Bird-Eye view across sector indices, to find which sector is having significant or 'out-of-norm' move in either direction.*
 * [Mean Reversion Channel](https://www.tradingview.com/script/Lr5QD0kK-Screener-Mean-Reversion-Channel/) - *The screener works by scanning through up to 40 symbols and list down symbols that are currently within Overbought/Oversold Zone as defined by Mean Reversion Channel indicator.*
 * [120 ticker Screener](https://www.tradingview.com/script/0h0gKNcy-120x-ticker-screener-composite-tickers/) - *In specific circumstances, it is possible to extract data, far above the 40 \`request.*()\` call limit for 1 single script.\*
@@ -126,7 +126,7 @@
 * [Python TradingView TA](https://github.com/deathlyface/python-tradingview-ta) ⚠️ Archived - *Unofficial TradingView technical analysis API wrapper.*
 * [Python Bybit Pine Bot](https://github.com/Mtemi/Bybit-Auto-Trading-Bot-Ordes-placed-via-TradingView-Webhook) ⭐ 518 | 🐛 12 | 🌐 Python | 📅 2023-02-16 - *Python based Trading Bot that uses TradingView\.com webhook JSON alerts to place orders(buy/sell/close/manage positions/TP/SL/TS etc.) on Bybit.com.*
 * [Python Pine Bot Client](https://github.com/kzh-dev/pine-bot-client) ⭐ 201 | 🐛 2 | 🌐 Python | 📅 2019-03-05 - *Client implementation of trading bot that uses Pine Script and Python.*
-* [Quantium Signal](https://github.com/quantium-ai/signal) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-02-25 - *Quantium Signal is a self-hosted SMTP server that allows the use of TradingView alerts without the premium plan.*
+* [Quantium Signal](https://github.com/quantium-ai/signal) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2025-02-25 - *Quantium Signal is a self-hosted SMTP server that allows the use of TradingView alerts without the premium plan.*
 * [OctoBot](https://octobot.online/) - *Open-source cryptocurrency trading robot can receive alerts and turn them into order on your favorite crypto exchanges.*
 
 #### Javascript
@@ -172,7 +172,7 @@
 
 ## Development Tools
 
-* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 32 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - *Professional Language Support for Pine Script. Static analysis, type-infection checking, and intelligent tooltips for advanced TradingView developers.*
+* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 33 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - *Professional Language Support for Pine Script. Static analysis, type-infection checking, and intelligent tooltips for advanced TradingView developers.*
 * [pine-script-linter](https://www.npmjs.com/package/pinescript-linter) - *A linter for Pine Script to enforce coding standards and catch common errors.*
 * [pine-script-visual-studio-code](https://github.com/pine-language-tools/pine-script-visual-studio-code) - *Sublime Text/VSCode package for Pine Script v5 with a few VSCode-specific features added.*
 
@@ -201,15 +201,15 @@
 
 ## Contributing
 
-* [How to Contribute](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/CONTRIBUTING.md) ⭐ 1,854 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to contribute to the repository.*
-* [Translation Guide](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/TRANSLATION.md) ⭐ 1,854 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to help translate the repository to your language.*
+* [How to Contribute](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/CONTRIBUTING.md) ⭐ 1,856 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to contribute to the repository.*
+* [Translation Guide](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/TRANSLATION.md) ⭐ 1,856 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to help translate the repository to your language.*
 * [Pine Script Docs](https://github.com/tradingview/pine_script_docs) - *Found a typo or a bug in the Official Pine Script Documentaion? Drop a PR here.*
 
 <a name="License" />
 
 ## License
 
-* [MIT License](https://github.com/pAulseperformance/awesome-pinescript/blob/master/LICENSE) ⭐ 1,854 | 🐛 8 | 📅 2026-02-28 - *The code and content in this repository is licensed under the MIT License. See the LICENSE file for more information.*
+* [MIT License](https://github.com/pAulseperformance/awesome-pinescript/blob/master/LICENSE) ⭐ 1,856 | 🐛 8 | 📅 2026-02-28 - *The code and content in this repository is licensed under the MIT License. See the LICENSE file for more information.*
 
 ***
 

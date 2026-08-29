@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T19:08:04Z",
+                "last_commit": "2026-08-29T12:52:49Z",
                 "open_issues": 1,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1142,
+                "stars": 1143,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -315,7 +315,7 @@
                     "open_issues": 0,
                     "owner": "quantium-ai",
                     "repo": "signal",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "alert",
                       "alerts",
@@ -454,7 +454,7 @@
             "open_issues": 0,
             "owner": "revanthpobala",
             "repo": "pinescript-vscode-extension",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:39.421Z"
@@ -481,7 +481,7 @@
             "open_issues": 8,
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1854,
+            "stars": 1856,
             "topics": [
               "algorithmic-trading",
               "collections",
@@ -520,7 +520,7 @@
             "open_issues": 8,
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1854,
+            "stars": 1856,
             "topics": [
               "algorithmic-trading",
               "collections",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:30:36.993Z",
+    "last_updated": "2026-08-29T22:49:25.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -560,7 +560,7 @@
       "open_issues": 8,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1854,
+      "stars": 1856,
       "topics": [
         "algorithmic-trading",
         "collections",
