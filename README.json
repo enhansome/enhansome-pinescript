@@ -12,12 +12,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of various technical indicators implemented in Pine Script for the TradingView platform",
+                "homepage": "https://www.tradingview.com/u/everget/#published-scripts",
                 "id": 147809279,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-10T03:54:27Z",
+                "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 887
+                "stars": 887,
+                "topics": [
+                  "average",
+                  "bands",
+                  "indicator",
+                  "indicators",
+                  "moving-average",
+                  "oscillator",
+                  "pine",
+                  "pine-script",
+                  "pinescript",
+                  "strategy",
+                  "technical-indicators",
+                  "trading",
+                  "tradingview",
+                  "volatility"
+                ]
               },
               "first_seen": "2026-08-28T04:55:39.421Z"
             },
@@ -28,12 +48,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ThinkorSwim scripts/indicators shared on https://usethinkscript.com/",
+                "homepage": null,
                 "id": 164349880,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-01-30T03:05:07Z",
+                "open_issues": 0,
                 "owner": "bingit2",
                 "repo": "TradingView-to-ThinkorSwim",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "indicators",
+                  "investing",
+                  "pinescript",
+                  "thinkorswim",
+                  "thinkscript",
+                  "trading",
+                  "tradingview"
+                ]
               },
               "first_seen": "2026-08-28T04:55:39.421Z"
             }
@@ -51,12 +84,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package that lets you create TradingView screeners in Python",
+                "homepage": "https://shner-elmo.github.io/TradingView-Screener",
                 "id": 497854996,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:08:04Z",
+                "open_issues": 1,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1142
+                "stars": 1142,
+                "topics": [
+                  "cfd",
+                  "crypto",
+                  "forex",
+                  "indices",
+                  "live-data",
+                  "quant",
+                  "quantitative-finance",
+                  "stock",
+                  "stock-market",
+                  "stock-scanner",
+                  "stock-screener",
+                  "stonk",
+                  "ta",
+                  "technical-analysis",
+                  "trading",
+                  "tradingview",
+                  "tradingview-api",
+                  "tradingview-scanner",
+                  "tradingview-screener",
+                  "tvscreener"
+                ]
               },
               "first_seen": "2026-08-28T04:55:39.421Z"
             }
@@ -82,12 +141,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email. ",
+                    "homepage": null,
                     "id": 257615431,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-22T03:30:04Z",
+                    "open_issues": 0,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1847
+                    "stars": 1847,
+                    "topics": [
+                      "bitcoin",
+                      "bot",
+                      "crypto",
+                      "discord",
+                      "docker",
+                      "flask",
+                      "slack",
+                      "telegram",
+                      "trading",
+                      "tradingview",
+                      "tradingview-webhook-bot",
+                      "tweepy",
+                      "twitter",
+                      "webhook",
+                      "webhooks",
+                      "webhooks-json"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:55:39.421Z"
                 },
@@ -98,12 +179,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Crypto Trading Bots in Python - Triangular Arbitrage, Beginner & Advanced Cryptocurrency Trading Bots Written in Python",
+                    "homepage": "https://www.youtube.com/channel/UCVTnyT4fUxYkvawbggo8-AQ",
                     "id": 135677511,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-06-26T17:04:27Z",
+                    "open_issues": 21,
                     "owner": "Roibal",
                     "repo": "Cryptocurrency-Trading-Bots-Python-Beginner-Advance",
-                    "stars": 1441
+                    "stars": 1441,
+                    "topics": [
+                      "algo",
+                      "binance-trading-bot",
+                      "bitcoin-trading-bots",
+                      "crypto-bot-trading",
+                      "crypto-trading-algorithms",
+                      "crypto-trading-strategies",
+                      "cryptocurrency",
+                      "cryptocurrency-trading-bots",
+                      "python-binance",
+                      "trading-algorithms",
+                      "trading-bot",
+                      "trading-strategies"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:55:39.421Z"
                 },
@@ -114,12 +213,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Unofficial TradingView technical analysis API wrapper.",
+                    "homepage": "https://python-tradingview-ta.readthedocs.io/",
                     "id": 262501214,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-23T15:11:28Z",
+                    "open_issues": 41,
                     "owner": "AnalyzerREST",
                     "repo": "python-tradingview-ta",
-                    "stars": 1247
+                    "stars": 1247,
+                    "topics": [
+                      "technical-analysis",
+                      "tradingview",
+                      "tradingview-ta"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:55:39.421Z"
                 },
@@ -130,12 +238,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python based Trading Bot that uses TradingView.com webhook JSON alerts to place orders(buy/sell/close/manage positions/TP/SL/TS etc.) on Bybit.com. ",
+                    "homepage": "https://10xtraders.ai",
                     "id": 284509910,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-02-16T02:09:55Z",
+                    "open_issues": 12,
                     "owner": "Mtemi",
                     "repo": "Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts",
-                    "stars": 518
+                    "stars": 518,
+                    "topics": [
+                      "3commas",
+                      "3commas-api",
+                      "binance",
+                      "binance-api",
+                      "binance-exchange",
+                      "bot",
+                      "btcusd",
+                      "bybit-api",
+                      "cryptocurrency",
+                      "cryptocurrency-exchanges",
+                      "python",
+                      "telegram-api",
+                      "telegram-bot",
+                      "telegram-bot-api",
+                      "trading",
+                      "trading-bot",
+                      "tradingview",
+                      "tradingview-webhooks",
+                      "webhooks"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:55:39.421Z"
                 },
@@ -146,12 +279,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Trading bot using Pine script",
+                    "homepage": null,
                     "id": 172844158,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-03-05T05:02:12Z",
+                    "open_issues": 2,
                     "owner": "kzh-dev",
                     "repo": "pine-bot-client",
-                    "stars": 201
+                    "stars": 201,
+                    "topics": [
+                      "ccxt",
+                      "crypto",
+                      "pine",
+                      "trading-bot",
+                      "tradingview"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:55:39.421Z"
                 },
@@ -162,12 +306,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unlock TradingView alerts without the premium plan using Quantium Signal.",
+                    "homepage": null,
                     "id": 936704575,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-25T12:04:52Z",
+                    "open_issues": 0,
                     "owner": "quantium-ai",
                     "repo": "signal",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "alert",
+                      "alerts",
+                      "basic",
+                      "binance",
+                      "bybit",
+                      "crypto",
+                      "free",
+                      "okx",
+                      "pionex",
+                      "signal",
+                      "smtp",
+                      "tradingview",
+                      "webhook"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:55:39.421Z"
                 }
@@ -185,12 +348,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Backend service converting tradingview alerts into action.",
+                    "homepage": "https://fundingrate.io",
                     "id": 207034179,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-03-31T00:24:04Z",
+                    "open_issues": 0,
                     "owner": "fundingrate",
                     "repo": "tradingview-webhooks",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": [
+                      "alerts",
+                      "bot",
+                      "bot-framework",
+                      "code",
+                      "exchange-orders",
+                      "notifications",
+                      "trading",
+                      "tradingview",
+                      "tradingview-listener",
+                      "webhooks"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:55:39.421Z"
                 },
@@ -201,12 +380,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automate Bitcoin Trading",
+                    "homepage": null,
                     "id": 156569433,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-11-07T08:32:36Z",
+                    "open_issues": 0,
                     "owner": "ottodevs",
                     "repo": "instabot-trader",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:55:39.421Z"
                 }
@@ -224,12 +408,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "24/7 cryptocurrency trading powered by TradingView.com Charts and Autoview. Runs an Autoview bot as a Chrome extension in a Docker Container to enable serverside execution of all AutoView bot commands.",
+                    "homepage": null,
                     "id": 134629661,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-24T22:38:37Z",
+                    "open_issues": 5,
                     "owner": "IAMtheIAM",
                     "repo": "autoview-tradingview-chrome-docker-bot",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:55:39.421Z"
                 }
@@ -256,12 +445,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linter, Syntax highlighter, auto-complete and much more for tradingview's pine script ",
+            "homepage": null,
             "id": 1129938098,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-14T17:20:29Z",
+            "open_issues": 0,
             "owner": "revanthpobala",
             "repo": "pinescript-vscode-extension",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:55:39.421Z"
         }
@@ -278,12 +472,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
+            "homepage": null,
             "id": 288394937,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-28T04:03:37Z",
+            "open_issues": 8,
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1854
+            "stars": 1854,
+            "topics": [
+              "algorithmic-trading",
+              "collections",
+              "pine",
+              "pinescript",
+              "pinescript-guides",
+              "pinescript-indicators",
+              "pinescript-strategies",
+              "pinescript-tricks",
+              "script",
+              "trading",
+              "trading-algorithms",
+              "trading-simulator",
+              "trading-strategies",
+              "trading-systems",
+              "tradingview",
+              "tradingview-alert",
+              "tradingview-pine-scripts"
+            ]
           },
           "first_seen": "2026-08-28T04:55:39.421Z"
         },
@@ -294,12 +511,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
+            "homepage": null,
             "id": 288394937,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-28T04:03:37Z",
+            "open_issues": 8,
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1854
+            "stars": 1854,
+            "topics": [
+              "algorithmic-trading",
+              "collections",
+              "pine",
+              "pinescript",
+              "pinescript-guides",
+              "pinescript-indicators",
+              "pinescript-strategies",
+              "pinescript-tricks",
+              "script",
+              "trading",
+              "trading-algorithms",
+              "trading-simulator",
+              "trading-strategies",
+              "trading-systems",
+              "tradingview",
+              "tradingview-alert",
+              "tradingview-pine-scripts"
+            ]
           },
           "first_seen": "2026-08-28T04:55:39.421Z"
         }
@@ -308,15 +548,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:42.093Z",
+    "last_updated": "2026-08-29T04:30:36.993Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
+      "homepage": null,
       "id": 288394937,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-02-28T04:03:37Z",
+      "open_issues": 8,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1854
+      "stars": 1854,
+      "topics": [
+        "algorithmic-trading",
+        "collections",
+        "pine",
+        "pinescript",
+        "pinescript-guides",
+        "pinescript-indicators",
+        "pinescript-strategies",
+        "pinescript-tricks",
+        "script",
+        "trading",
+        "trading-algorithms",
+        "trading-simulator",
+        "trading-strategies",
+        "trading-systems",
+        "tradingview",
+        "tradingview-alert",
+        "tradingview-pine-scripts"
+      ]
     },
     "original_repository_sha": "390beb3cf68e629a4279b6d035456aef67873bc8",
     "enhanced_repository": "enhansome/enhansome-pinescript",
