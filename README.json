@@ -53,7 +53,7 @@
                 "archived": false,
                 "id": 497854996,
                 "language": "Python",
-                "last_commit": "2026-08-27T17:57:33Z",
+                "last_commit": "2026-08-28T19:08:04Z",
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
                 "stars": 1142
@@ -87,7 +87,7 @@
                     "last_commit": "2026-07-22T03:30:04Z",
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1846
+                    "stars": 1847
                   },
                   "first_seen": "2026-08-28T04:55:39.421Z"
                 },
@@ -283,7 +283,7 @@
             "last_commit": "2026-02-28T04:03:37Z",
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1853
+            "stars": 1854
           },
           "first_seen": "2026-08-28T04:55:39.421Z"
         },
@@ -299,7 +299,7 @@
             "last_commit": "2026-02-28T04:03:37Z",
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1853
+            "stars": 1854
           },
           "first_seen": "2026-08-28T04:55:39.421Z"
         }
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:55:39.421Z",
+    "last_updated": "2026-08-29T02:55:42.093Z",
     "original_repository_info": {
       "archived": false,
       "id": 288394937,
@@ -316,7 +316,7 @@
       "last_commit": "2026-02-28T04:03:37Z",
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1853
+      "stars": 1854
     },
     "original_repository_sha": "390beb3cf68e629a4279b6d035456aef67873bc8",
     "enhanced_repository": "enhansome/enhansome-pinescript",
