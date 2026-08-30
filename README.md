@@ -76,7 +76,7 @@
 
 ### Screeners
 
-* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,143 | 🐛 1 | 🌐 Python | 📅 2026-08-29 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
+* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,146 | 🐛 1 | 🌐 Python | 📅 2026-08-30 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
 * [Indices Sector Sigma Spikes](https://www.tradingview.com/script/B3aLMAHh-Indices-Sector-SigmaSpikes/) - *This screener aims to provide Bird-Eye view across sector indices, to find which sector is having significant or 'out-of-norm' move in either direction.*
 * [Mean Reversion Channel](https://www.tradingview.com/script/Lr5QD0kK-Screener-Mean-Reversion-Channel/) - *The screener works by scanning through up to 40 symbols and list down symbols that are currently within Overbought/Oversold Zone as defined by Mean Reversion Channel indicator.*
 * [120 ticker Screener](https://www.tradingview.com/script/0h0gKNcy-120x-ticker-screener-composite-tickers/) - *In specific circumstances, it is possible to extract data, far above the 40 \`request.*()\` call limit for 1 single script.\*
@@ -121,7 +121,7 @@
 
 #### Python
 
-* [Python Webhook Alert Provider](https://github.com/fabston/TradingView-Webhook-Bot) ⭐ 1,847 | 🐛 0 | 🌐 Python | 📅 2026-07-22 - *The TradingView Webhook Bot listens to TradingView alerts via webhooks using flask. All alerts can be instantly sent to Telegram, Discord, Twitter and/or Email.*
+* [Python Webhook Alert Provider](https://github.com/fabston/TradingView-Webhook-Bot) ⭐ 1,849 | 🐛 0 | 🌐 Python | 📅 2026-07-22 - *The TradingView Webhook Bot listens to TradingView alerts via webhooks using flask. All alerts can be instantly sent to Telegram, Discord, Twitter and/or Email.*
 * [Misc Collection](https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance) ⭐ 1,441 | 🐛 21 | 🌐 Python | 📅 2023-06-26 - *This repo includes various python crypto bots with a tradingview alert bot.*
 * [Python TradingView TA](https://github.com/deathlyface/python-tradingview-ta) ⚠️ Archived - *Unofficial TradingView technical analysis API wrapper.*
 * [Python Bybit Pine Bot](https://github.com/Mtemi/Bybit-Auto-Trading-Bot-Ordes-placed-via-TradingView-Webhook) ⭐ 518 | 🐛 12 | 🌐 Python | 📅 2023-02-16 - *Python based Trading Bot that uses TradingView\.com webhook JSON alerts to place orders(buy/sell/close/manage positions/TP/SL/TS etc.) on Bybit.com.*
@@ -213,4 +213,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
