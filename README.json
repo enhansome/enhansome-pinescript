@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 887,
+                "stars": 889,
                 "topics": [
                   "average",
                   "bands",
@@ -57,7 +57,7 @@
                 "open_issues": 0,
                 "owner": "bingit2",
                 "repo": "TradingView-to-ThinkorSwim",
-                "stars": 144,
+                "stars": 145,
                 "topics": [
                   "indicators",
                   "investing",
@@ -89,7 +89,7 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T11:47:47Z",
+                "last_commit": "2026-09-04T11:49:15Z",
                 "open_issues": 1,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
@@ -481,7 +481,7 @@
             "open_issues": 8,
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1861,
+            "stars": 1862,
             "topics": [
               "algorithmic-trading",
               "collections",
@@ -520,7 +520,7 @@
             "open_issues": 8,
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1861,
+            "stars": 1862,
             "topics": [
               "algorithmic-trading",
               "collections",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:51:14.290Z",
+    "last_updated": "2026-09-04T22:34:34.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -560,7 +560,7 @@
       "open_issues": 8,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1861,
+      "stars": 1862,
       "topics": [
         "algorithmic-trading",
         "collections",
