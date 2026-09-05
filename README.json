@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 889,
+                "stars": 890,
                 "topics": [
                   "average",
                   "bands",
@@ -89,7 +89,7 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T11:49:15Z",
+                "last_commit": "2026-09-05T10:58:58Z",
                 "open_issues": 1,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
@@ -481,7 +481,7 @@
             "open_issues": 8,
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1862,
+            "stars": 1863,
             "topics": [
               "algorithmic-trading",
               "collections",
@@ -520,7 +520,7 @@
             "open_issues": 8,
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1862,
+            "stars": 1863,
             "topics": [
               "algorithmic-trading",
               "collections",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:34:34.391Z",
+    "last_updated": "2026-09-05T22:22:27.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -560,7 +560,7 @@
       "open_issues": 8,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1862,
+      "stars": 1863,
       "topics": [
         "algorithmic-trading",
         "collections",
