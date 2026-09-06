@@ -76,7 +76,7 @@
 
 ### Screeners
 
-* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,148 | 🐛 1 | 🌐 Python | 📅 2026-09-05 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
+* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,151 | 🐛 1 | 🌐 Python | 📅 2026-09-06 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
 * [Indices Sector Sigma Spikes](https://www.tradingview.com/script/B3aLMAHh-Indices-Sector-SigmaSpikes/) - *This screener aims to provide Bird-Eye view across sector indices, to find which sector is having significant or 'out-of-norm' move in either direction.*
 * [Mean Reversion Channel](https://www.tradingview.com/script/Lr5QD0kK-Screener-Mean-Reversion-Channel/) - *The screener works by scanning through up to 40 symbols and list down symbols that are currently within Overbought/Oversold Zone as defined by Mean Reversion Channel indicator.*
 * [120 ticker Screener](https://www.tradingview.com/script/0h0gKNcy-120x-ticker-screener-composite-tickers/) - *In specific circumstances, it is possible to extract data, far above the 40 \`request.*()\` call limit for 1 single script.\*
@@ -192,7 +192,7 @@
 * [Digital Signal Processing](https://www.pinecoders.com/techniques/dsp/) - *Digital Signal Procession Techniques in Pine.*
 * [FAQ](https://www.pinecoders.com/faq_and_code/) - *A powerful, curated list of frequently asked questions. Bookmark this.*
 * [Kodify](https://kodify.net/tradingview-programming-articles/) - *Tutorials on various topics for beginners and more experienced coders alike.*
-* [Pine Coders Utils](https://github.com/pinecoders/pine-utils) ⭐ 435 | 🐛 0 | 📅 2019-08-22 - *Reusable code snippets, tricks & tips.*
+* [Pine Coders Utils](https://github.com/pinecoders/pine-utils) ⭐ 436 | 🐛 0 | 📅 2019-08-22 - *Reusable code snippets, tricks & tips.*
 * [Pine Coders Website](https://www.pinecoders.com/) - *Useful information for Pine coders.*
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/pine-script) - *Ask questions tagged with pine-script.*
 * [What is Repainting?](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Repainting.html) - *It's not fun. You should learn about it.*
@@ -201,16 +201,16 @@
 
 ## Contributing
 
-* [How to Contribute](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/CONTRIBUTING.md) ⭐ 1,863 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to contribute to the repository.*
-* [Translation Guide](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/TRANSLATION.md) ⭐ 1,863 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to help translate the repository to your language.*
+* [How to Contribute](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/CONTRIBUTING.md) ⭐ 1,862 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to contribute to the repository.*
+* [Translation Guide](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/TRANSLATION.md) ⭐ 1,862 | 🐛 8 | 📅 2026-02-28 - *Read this if you want to help translate the repository to your language.*
 * [Pine Script Docs](https://github.com/tradingview/pine_script_docs) - *Found a typo or a bug in the Official Pine Script Documentaion? Drop a PR here.*
 
 <a name="License" />
 
 ## License
 
-* [MIT License](https://github.com/pAulseperformance/awesome-pinescript/blob/master/LICENSE) ⭐ 1,863 | 🐛 8 | 📅 2026-02-28 - *The code and content in this repository is licensed under the MIT License. See the LICENSE file for more information.*
+* [MIT License](https://github.com/pAulseperformance/awesome-pinescript/blob/master/LICENSE) ⭐ 1,862 | 🐛 8 | 📅 2026-02-28 - *The code and content in this repository is licensed under the MIT License. See the LICENSE file for more information.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
