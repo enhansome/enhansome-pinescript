@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T13:06:08Z",
+                "last_commit": "2026-09-08T11:49:30Z",
                 "open_issues": 1,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1153,
+                "stars": 1154,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -247,7 +247,7 @@
                     "open_issues": 12,
                     "owner": "Mtemi",
                     "repo": "Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts",
-                    "stars": 520,
+                    "stars": 521,
                     "topics": [
                       "3commas",
                       "3commas-api",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:02:37.337Z",
+    "last_updated": "2026-09-08T23:00:48.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
