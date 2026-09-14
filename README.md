@@ -76,7 +76,7 @@
 
 ### Screeners
 
-* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,278 | 🐛 2 | 🌐 Python | 📅 2026-09-12 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
+* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,283 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
 * [Indices Sector Sigma Spikes](https://www.tradingview.com/script/B3aLMAHh-Indices-Sector-SigmaSpikes/) - *This screener aims to provide Bird-Eye view across sector indices, to find which sector is having significant or 'out-of-norm' move in either direction.*
 * [Mean Reversion Channel](https://www.tradingview.com/script/Lr5QD0kK-Screener-Mean-Reversion-Channel/) - *The screener works by scanning through up to 40 symbols and list down symbols that are currently within Overbought/Oversold Zone as defined by Mean Reversion Channel indicator.*
 * [120 ticker Screener](https://www.tradingview.com/script/0h0gKNcy-120x-ticker-screener-composite-tickers/) - *In specific circumstances, it is possible to extract data, far above the 40 \`request.*()\` call limit for 1 single script.\*
@@ -172,7 +172,7 @@
 
 ## Development Tools
 
-* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 34 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - *Professional Language Support for Pine Script. Static analysis, type-infection checking, and intelligent tooltips for advanced TradingView developers.*
+* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 35 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - *Professional Language Support for Pine Script. Static analysis, type-infection checking, and intelligent tooltips for advanced TradingView developers.*
 * [pine-script-linter](https://www.npmjs.com/package/pinescript-linter) - *A linter for Pine Script to enforce coding standards and catch common errors.*
 * [pine-script-visual-studio-code](https://github.com/pine-language-tools/pine-script-visual-studio-code) - *Sublime Text/VSCode package for Pine Script v5 with a few VSCode-specific features added.*
 
@@ -213,4 +213,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
