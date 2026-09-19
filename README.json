@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-17T12:17:01Z",
+                "last_commit": "2026-09-19T11:41:28Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1288,
+                "stars": 1289,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -188,7 +188,7 @@
                     "open_issues": 21,
                     "owner": "Roibal",
                     "repo": "Cryptocurrency-Trading-Bots-Python-Beginner-Advance",
-                    "stars": 1442,
+                    "stars": 1443,
                     "topics": [
                       "algo",
                       "binance-trading-bot",
@@ -222,7 +222,7 @@
                     "open_issues": 41,
                     "owner": "AnalyzerREST",
                     "repo": "python-tradingview-ta",
-                    "stars": 1250,
+                    "stars": 1251,
                     "topics": [
                       "technical-analysis",
                       "tradingview",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:52:34.552Z",
+    "last_updated": "2026-09-19T22:31:53.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
