@@ -64,7 +64,7 @@
 
 ### Collections
 
-* [Pine Script Indicators Collection](https://github.com/everget/tradingview-pinescript-indicators) ⭐ 901 | 🐛 0 | 📅 2026-08-10 - *A collection of various technical indicators.*
+* [Pine Script Indicators Collection](https://github.com/everget/tradingview-pinescript-indicators) ⭐ 902 | 🐛 0 | 📅 2026-08-10 - *A collection of various technical indicators.*
 * [Pine Script To ThinkScript Repo](https://github.com/bingit2/TradingView-to-ThinkorSwim) ⭐ 145 | 🐛 0 | 📅 2021-01-30 - *Repository of Pine Script Indicators converted to TOS ThinkScript*
 * [Pine Coders Publications](https://www.tradingview.com/u/PineCoders/#published-scripts) - *A plethora of useful techniques developed by the Pine Coders Account*
 * [Traderslist](https://www.traderslist.io) - *Discover trading indicators Trading Indicators, Tools & Algorithms*
@@ -76,7 +76,7 @@
 
 ### Screeners
 
-* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,295 | 🐛 3 | 🌐 Python | 📅 2026-09-24 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
+* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,297 | 🐛 3 | 🌐 Python | 📅 2026-09-25 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
 * [Indices Sector Sigma Spikes](https://www.tradingview.com/script/B3aLMAHh-Indices-Sector-SigmaSpikes/) - *This screener aims to provide Bird-Eye view across sector indices, to find which sector is having significant or 'out-of-norm' move in either direction.*
 * [Mean Reversion Channel](https://www.tradingview.com/script/Lr5QD0kK-Screener-Mean-Reversion-Channel/) - *The screener works by scanning through up to 40 symbols and list down symbols that are currently within Overbought/Oversold Zone as defined by Mean Reversion Channel indicator.*
 * [120 ticker Screener](https://www.tradingview.com/script/0h0gKNcy-120x-ticker-screener-composite-tickers/) - *In specific circumstances, it is possible to extract data, far above the 40 \`request.*()\` call limit for 1 single script.\*
@@ -121,11 +121,11 @@
 
 #### Python
 
-* [Python Webhook Alert Provider](https://github.com/fabston/TradingView-Webhook-Bot) ⭐ 1,866 | 🐛 1 | 🌐 Python | 📅 2026-09-01 - *The TradingView Webhook Bot listens to TradingView alerts via webhooks using flask. All alerts can be instantly sent to Telegram, Discord, Twitter and/or Email.*
+* [Python Webhook Alert Provider](https://github.com/fabston/TradingView-Webhook-Bot) ⭐ 1,868 | 🐛 1 | 🌐 Python | 📅 2026-09-01 - *The TradingView Webhook Bot listens to TradingView alerts via webhooks using flask. All alerts can be instantly sent to Telegram, Discord, Twitter and/or Email.*
 * [Misc Collection](https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance) ⭐ 1,442 | 🐛 21 | 🌐 Python | 📅 2023-06-26 - *This repo includes various python crypto bots with a tradingview alert bot.*
 * [Python TradingView TA](https://github.com/deathlyface/python-tradingview-ta) ⚠️ Archived - *Unofficial TradingView technical analysis API wrapper.*
-* [Python Bybit Pine Bot](https://github.com/Mtemi/Bybit-Auto-Trading-Bot-Ordes-placed-via-TradingView-Webhook) ⭐ 522 | 🐛 12 | 🌐 Python | 📅 2023-02-16 - *Python based Trading Bot that uses TradingView\.com webhook JSON alerts to place orders(buy/sell/close/manage positions/TP/SL/TS etc.) on Bybit.com.*
-* [Python Pine Bot Client](https://github.com/kzh-dev/pine-bot-client) ⭐ 202 | 🐛 2 | 🌐 Python | 📅 2019-03-05 - *Client implementation of trading bot that uses Pine Script and Python.*
+* [Python Bybit Pine Bot](https://github.com/Mtemi/Bybit-Auto-Trading-Bot-Ordes-placed-via-TradingView-Webhook) ⭐ 524 | 🐛 12 | 🌐 Python | 📅 2023-02-16 - *Python based Trading Bot that uses TradingView\.com webhook JSON alerts to place orders(buy/sell/close/manage positions/TP/SL/TS etc.) on Bybit.com.*
+* [Python Pine Bot Client](https://github.com/kzh-dev/pine-bot-client) ⭐ 201 | 🐛 2 | 🌐 Python | 📅 2019-03-05 - *Client implementation of trading bot that uses Pine Script and Python.*
 * [Quantium Signal](https://github.com/quantium-ai/signal) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2025-02-25 - *Quantium Signal is a self-hosted SMTP server that allows the use of TradingView alerts without the premium plan.*
 * [OctoBot](https://octobot.online/) - *Open-source cryptocurrency trading robot can receive alerts and turn them into order on your favorite crypto exchanges.*
 
@@ -201,16 +201,16 @@
 
 ## Contributing
 
-* [How to Contribute](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/CONTRIBUTING.md) ⭐ 1,870 | 🐛 9 | 📅 2026-02-28 - *Read this if you want to contribute to the repository.*
-* [Translation Guide](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/TRANSLATION.md) ⭐ 1,870 | 🐛 9 | 📅 2026-02-28 - *Read this if you want to help translate the repository to your language.*
+* [How to Contribute](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/CONTRIBUTING.md) ⭐ 1,871 | 🐛 10 | 📅 2026-02-28 - *Read this if you want to contribute to the repository.*
+* [Translation Guide](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/TRANSLATION.md) ⭐ 1,871 | 🐛 10 | 📅 2026-02-28 - *Read this if you want to help translate the repository to your language.*
 * [Pine Script Docs](https://github.com/tradingview/pine_script_docs) - *Found a typo or a bug in the Official Pine Script Documentaion? Drop a PR here.*
 
 <a name="License" />
 
 ## License
 
-* [MIT License](https://github.com/pAulseperformance/awesome-pinescript/blob/master/LICENSE) ⭐ 1,870 | 🐛 9 | 📅 2026-02-28 - *The code and content in this repository is licensed under the MIT License. See the LICENSE file for more information.*
+* [MIT License](https://github.com/pAulseperformance/awesome-pinescript/blob/master/LICENSE) ⭐ 1,871 | 🐛 10 | 📅 2026-02-28 - *The code and content in this repository is licensed under the MIT License. See the LICENSE file for more information.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
