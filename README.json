@@ -93,7 +93,7 @@
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1302,
+                "stars": 1304,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:26:06.705Z",
+    "last_updated": "2026-09-29T00:37:43.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
