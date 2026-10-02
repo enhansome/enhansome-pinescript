@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 906,
+                "stars": 907,
                 "topics": [
                   "average",
                   "bands",
@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T13:07:25Z",
+                "last_commit": "2026-10-01T14:00:29Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1307,
+                "stars": 1308,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -146,8 +146,8 @@
                     "id": 257615431,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-30T02:21:52Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-01T02:08:34Z",
+                    "open_issues": 3,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
                     "stars": 1870,
@@ -188,7 +188,7 @@
                     "open_issues": 21,
                     "owner": "Roibal",
                     "repo": "Cryptocurrency-Trading-Bots-Python-Beginner-Advance",
-                    "stars": 1442,
+                    "stars": 1443,
                     "topics": [
                       "algo",
                       "binance-trading-bot",
@@ -222,7 +222,7 @@
                     "open_issues": 41,
                     "owner": "AnalyzerREST",
                     "repo": "python-tradingview-ta",
-                    "stars": 1253,
+                    "stars": 1254,
                     "topics": [
                       "technical-analysis",
                       "tradingview",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:12:17.148Z",
+    "last_updated": "2026-10-02T00:16:11.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
