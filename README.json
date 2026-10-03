@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T14:00:29Z",
+                "last_commit": "2026-10-02T13:18:13Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1308,
+                "stars": 1307,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -150,7 +150,7 @@
                     "open_issues": 3,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1870,
+                    "stars": 1869,
                     "topics": [
                       "bitcoin",
                       "bot",
@@ -481,7 +481,7 @@
             "open_issues": 10,
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1872,
+            "stars": 1870,
             "topics": [
               "algorithmic-trading",
               "collections",
@@ -520,7 +520,7 @@
             "open_issues": 10,
             "owner": "pAulseperformance",
             "repo": "awesome-pinescript",
-            "stars": 1872,
+            "stars": 1870,
             "topics": [
               "algorithmic-trading",
               "collections",
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:16:11.280Z",
+    "last_updated": "2026-10-03T00:01:38.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -560,7 +560,7 @@
       "open_issues": 10,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1872,
+      "stars": 1870,
       "topics": [
         "algorithmic-trading",
         "collections",
