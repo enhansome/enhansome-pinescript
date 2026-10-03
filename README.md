@@ -64,7 +64,7 @@
 
 ### Collections
 
-* [Pine Script Indicators Collection](https://github.com/everget/tradingview-pinescript-indicators) ⭐ 907 | 🐛 0 | 📅 2026-08-10 - *A collection of various technical indicators.*
+* [Pine Script Indicators Collection](https://github.com/everget/tradingview-pinescript-indicators) ⭐ 907 | 🐛 0 | 📅 2026-10-03 - *A collection of various technical indicators.*
 * [Pine Script To ThinkScript Repo](https://github.com/bingit2/TradingView-to-ThinkorSwim) ⭐ 145 | 🐛 0 | 📅 2021-01-30 - *Repository of Pine Script Indicators converted to TOS ThinkScript*
 * [Pine Coders Publications](https://www.tradingview.com/u/PineCoders/#published-scripts) - *A plethora of useful techniques developed by the Pine Coders Account*
 * [Traderslist](https://www.traderslist.io) - *Discover trading indicators Trading Indicators, Tools & Algorithms*
@@ -76,7 +76,7 @@
 
 ### Screeners
 
-* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,307 | 🐛 3 | 🌐 Python | 📅 2026-10-02 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
+* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,307 | 🐛 3 | 🌐 Python | 📅 2026-10-03 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
 * [Indices Sector Sigma Spikes](https://www.tradingview.com/script/B3aLMAHh-Indices-Sector-SigmaSpikes/) - *This screener aims to provide Bird-Eye view across sector indices, to find which sector is having significant or 'out-of-norm' move in either direction.*
 * [Mean Reversion Channel](https://www.tradingview.com/script/Lr5QD0kK-Screener-Mean-Reversion-Channel/) - *The screener works by scanning through up to 40 symbols and list down symbols that are currently within Overbought/Oversold Zone as defined by Mean Reversion Channel indicator.*
 * [120 ticker Screener](https://www.tradingview.com/script/0h0gKNcy-120x-ticker-screener-composite-tickers/) - *In specific circumstances, it is possible to extract data, far above the 40 \`request.*()\` call limit for 1 single script.\*
@@ -172,7 +172,7 @@
 
 ## Development Tools
 
-* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 36 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-03 - *Professional Language Support for Pine Script. Static analysis, type-infection checking, and intelligent tooltips for advanced TradingView developers.*
+* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-03 - *Professional Language Support for Pine Script. Static analysis, type-infection checking, and intelligent tooltips for advanced TradingView developers.*
 * [pine-script-linter](https://www.npmjs.com/package/pinescript-linter) - *A linter for Pine Script to enforce coding standards and catch common errors.*
 * [pine-script-visual-studio-code](https://github.com/pine-language-tools/pine-script-visual-studio-code) - *Sublime Text/VSCode package for Pine Script v5 with a few VSCode-specific features added.*
 
