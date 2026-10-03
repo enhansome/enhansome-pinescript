@@ -172,7 +172,7 @@
 
 ## Development Tools
 
-* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-14 - *Professional Language Support for Pine Script. Static analysis, type-infection checking, and intelligent tooltips for advanced TradingView developers.*
+* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 36 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-03 - *Professional Language Support for Pine Script. Static analysis, type-infection checking, and intelligent tooltips for advanced TradingView developers.*
 * [pine-script-linter](https://www.npmjs.com/package/pinescript-linter) - *A linter for Pine Script to enforce coding standards and catch common errors.*
 * [pine-script-visual-studio-code](https://github.com/pine-language-tools/pine-script-visual-studio-code) - *Sublime Text/VSCode package for Pine Script v5 with a few VSCode-specific features added.*
 
@@ -201,15 +201,15 @@
 
 ## Contributing
 
-* [How to Contribute](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/CONTRIBUTING.md) ⭐ 1,870 | 🐛 10 | 📅 2026-02-28 - *Read this if you want to contribute to the repository.*
-* [Translation Guide](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/TRANSLATION.md) ⭐ 1,870 | 🐛 10 | 📅 2026-02-28 - *Read this if you want to help translate the repository to your language.*
+* [How to Contribute](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/CONTRIBUTING.md) - *Read this if you want to contribute to the repository.*
+* [Translation Guide](https://github.com/pAulseperformance/awesome-pinescript/blob/master/.github/TRANSLATION.md) - *Read this if you want to help translate the repository to your language.*
 * [Pine Script Docs](https://github.com/tradingview/pine_script_docs) - *Found a typo or a bug in the Official Pine Script Documentaion? Drop a PR here.*
 
 <a name="License" />
 
 ## License
 
-* [MIT License](https://github.com/pAulseperformance/awesome-pinescript/blob/master/LICENSE) ⭐ 1,870 | 🐛 10 | 📅 2026-02-28 - *The code and content in this repository is licensed under the MIT License. See the LICENSE file for more information.*
+* [MIT License](https://github.com/pAulseperformance/awesome-pinescript/blob/master/LICENSE) - *The code and content in this repository is licensed under the MIT License. See the LICENSE file for more information.*
 
 ***
 
