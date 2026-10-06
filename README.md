@@ -122,10 +122,10 @@
 #### Python
 
 * [Python Webhook Alert Provider](https://github.com/fabston/TradingView-Webhook-Bot) ⭐ 1,869 | 🐛 3 | 🌐 Python | 📅 2026-10-01 - *The TradingView Webhook Bot listens to TradingView alerts via webhooks using flask. All alerts can be instantly sent to Telegram, Discord, Twitter and/or Email.*
-* [Misc Collection](https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance) ⭐ 1,443 | 🐛 21 | 🌐 Python | 📅 2023-06-26 - *This repo includes various python crypto bots with a tradingview alert bot.*
+* [Misc Collection](https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance) ⭐ 1,442 | 🐛 21 | 🌐 Python | 📅 2023-06-26 - *This repo includes various python crypto bots with a tradingview alert bot.*
 * [Python TradingView TA](https://github.com/deathlyface/python-tradingview-ta) ⚠️ Archived - *Unofficial TradingView technical analysis API wrapper.*
-* [Python Bybit Pine Bot](https://github.com/Mtemi/Bybit-Auto-Trading-Bot-Ordes-placed-via-TradingView-Webhook) ⭐ 525 | 🐛 12 | 🌐 Python | 📅 2023-02-16 - *Python based Trading Bot that uses TradingView\.com webhook JSON alerts to place orders(buy/sell/close/manage positions/TP/SL/TS etc.) on Bybit.com.*
-* [Python Pine Bot Client](https://github.com/kzh-dev/pine-bot-client) ⭐ 201 | 🐛 2 | 🌐 Python | 📅 2019-03-05 - *Client implementation of trading bot that uses Pine Script and Python.*
+* [Python Bybit Pine Bot](https://github.com/Mtemi/Bybit-Auto-Trading-Bot-Ordes-placed-via-TradingView-Webhook) ⭐ 524 | 🐛 12 | 🌐 Python | 📅 2023-02-16 - *Python based Trading Bot that uses TradingView\.com webhook JSON alerts to place orders(buy/sell/close/manage positions/TP/SL/TS etc.) on Bybit.com.*
+* [Python Pine Bot Client](https://github.com/kzh-dev/pine-bot-client) ⭐ 200 | 🐛 2 | 🌐 Python | 📅 2019-03-05 - *Client implementation of trading bot that uses Pine Script and Python.*
 * [Quantium Signal](https://github.com/quantium-ai/signal) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2025-02-25 - *Quantium Signal is a self-hosted SMTP server that allows the use of TradingView alerts without the premium plan.*
 * [OctoBot](https://octobot.online/) - *Open-source cryptocurrency trading robot can receive alerts and turn them into order on your favorite crypto exchanges.*
 
@@ -213,4 +213,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

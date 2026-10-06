@@ -188,7 +188,7 @@
                     "open_issues": 21,
                     "owner": "Roibal",
                     "repo": "Cryptocurrency-Trading-Bots-Python-Beginner-Advance",
-                    "stars": 1443,
+                    "stars": 1442,
                     "topics": [
                       "algo",
                       "binance-trading-bot",
@@ -247,7 +247,7 @@
                     "open_issues": 12,
                     "owner": "Mtemi",
                     "repo": "Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": [
                       "3commas",
                       "3commas-api",
@@ -288,7 +288,7 @@
                     "open_issues": 2,
                     "owner": "kzh-dev",
                     "repo": "pine-bot-client",
-                    "stars": 201,
+                    "stars": 200,
                     "topics": [
                       "ccxt",
                       "crypto",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:37:47.594Z",
+    "last_updated": "2026-10-06T01:32:46.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -476,7 +476,7 @@
       "open_issues": 10,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1907,
+      "stars": 1912,
       "topics": [
         "algorithmic-trading",
         "collections",
