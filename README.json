@@ -57,7 +57,7 @@
                 "open_issues": 0,
                 "owner": "bingit2",
                 "repo": "TradingView-to-ThinkorSwim",
-                "stars": 145,
+                "stars": 144,
                 "topics": [
                   "indicators",
                   "investing",
@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T12:56:08Z",
+                "last_commit": "2026-10-06T13:44:20Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1308,
+                "stars": 1309,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:20:11.160Z",
+    "last_updated": "2026-10-07T00:11:49.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
