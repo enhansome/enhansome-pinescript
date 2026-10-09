@@ -17,7 +17,7 @@
                 "id": 147809279,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T07:01:53Z",
+                "last_commit": "2026-10-08T04:12:54Z",
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-07T14:02:03Z",
+                "last_commit": "2026-10-08T14:07:15Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1309,
+                "stars": 1311,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -150,7 +150,7 @@
                     "open_issues": 3,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1870,
+                    "stars": 1872,
                     "topics": [
                       "bitcoin",
                       "bot",
@@ -188,7 +188,7 @@
                     "open_issues": 21,
                     "owner": "Roibal",
                     "repo": "Cryptocurrency-Trading-Bots-Python-Beginner-Advance",
-                    "stars": 1442,
+                    "stars": 1443,
                     "topics": [
                       "algo",
                       "binance-trading-bot",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:27:54.789Z",
+    "last_updated": "2026-10-09T00:42:11.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -476,7 +476,7 @@
       "open_issues": 11,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1914,
+      "stars": 1916,
       "topics": [
         "algorithmic-trading",
         "collections",
