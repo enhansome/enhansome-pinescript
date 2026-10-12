@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 920,
+                "stars": 924,
                 "topics": [
                   "average",
                   "bands",
@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T13:08:00Z",
+                "last_commit": "2026-10-11T13:37:00Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1317,
+                "stars": 1318,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -150,7 +150,7 @@
                     "open_issues": 3,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1874,
+                    "stars": 1875,
                     "topics": [
                       "bitcoin",
                       "bot",
@@ -450,8 +450,8 @@
             "id": 1129938098,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T22:33:34Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-11T16:30:06Z",
+            "open_issues": 3,
             "owner": "revanthpobala",
             "repo": "pinescript-vscode-extension",
             "stars": 36,
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:55:14.257Z",
+    "last_updated": "2026-10-12T00:02:06.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -476,7 +476,7 @@
       "open_issues": 11,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1920,
+      "stars": 1921,
       "topics": [
         "algorithmic-trading",
         "collections",
