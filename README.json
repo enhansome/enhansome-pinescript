@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 934,
+                "stars": 935,
                 "topics": [
                   "average",
                   "bands",
@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T11:58:24Z",
+                "last_commit": "2026-10-17T11:14:26Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1322,
+                "stars": 1324,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -150,7 +150,7 @@
                     "open_issues": 3,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1878,
+                    "stars": 1879,
                     "topics": [
                       "bitcoin",
                       "bot",
@@ -222,7 +222,7 @@
                     "open_issues": 41,
                     "owner": "AnalyzerREST",
                     "repo": "python-tradingview-ta",
-                    "stars": 1253,
+                    "stars": 1254,
                     "topics": [
                       "technical-analysis",
                       "tradingview",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:03:50.933Z",
+    "last_updated": "2026-10-17T22:42:13.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -473,10 +473,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-02-28T04:03:37Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1926,
+      "stars": 1928,
       "topics": [
         "algorithmic-trading",
         "collections",
