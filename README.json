@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 935,
+                "stars": 938,
                 "topics": [
                   "average",
                   "bands",
@@ -57,7 +57,7 @@
                 "open_issues": 0,
                 "owner": "bingit2",
                 "repo": "TradingView-to-ThinkorSwim",
-                "stars": 144,
+                "stars": 145,
                 "topics": [
                   "indicators",
                   "investing",
@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T11:14:26Z",
+                "last_commit": "2026-10-18T11:49:05Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1324,
+                "stars": 1325,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -150,7 +150,7 @@
                     "open_issues": 3,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1879,
+                    "stars": 1881,
                     "topics": [
                       "bitcoin",
                       "bot",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:42:13.023Z",
+    "last_updated": "2026-10-18T22:38:13.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -473,10 +473,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-02-28T04:03:37Z",
-      "open_issues": 13,
+      "open_issues": 14,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1928,
+      "stars": 1931,
       "topics": [
         "algorithmic-trading",
         "collections",
