@@ -17,11 +17,11 @@
                 "id": 147809279,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T04:12:54Z",
+                "last_commit": "2026-10-19T06:28:30Z",
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 938,
+                "stars": 941,
                 "topics": [
                   "average",
                   "bands",
@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-18T11:49:05Z",
+                "last_commit": "2026-10-19T14:06:59Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1325,
+                "stars": 1326,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:38:13.937Z",
+    "last_updated": "2026-10-19T23:57:56.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
