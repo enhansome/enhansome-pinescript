@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 943,
+                "stars": 942,
                 "topics": [
                   "average",
                   "bands",
@@ -89,7 +89,7 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T12:14:31Z",
+                "last_commit": "2026-10-24T11:42:09Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
@@ -150,7 +150,7 @@
                     "open_issues": 4,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1884,
+                    "stars": 1885,
                     "topics": [
                       "bitcoin",
                       "bot",
@@ -247,7 +247,7 @@
                     "open_issues": 12,
                     "owner": "Mtemi",
                     "repo": "Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts",
-                    "stars": 525,
+                    "stars": 526,
                     "topics": [
                       "3commas",
                       "3commas-api",
@@ -449,9 +449,9 @@
             "homepage": null,
             "id": 1129938098,
             "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-11T16:30:06Z",
-            "open_issues": 3,
+            "license": "MIT",
+            "last_commit": "2026-10-24T21:37:57Z",
+            "open_issues": 0,
             "owner": "revanthpobala",
             "repo": "pinescript-vscode-extension",
             "stars": 38,
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:34:43.364Z",
+    "last_updated": "2026-10-24T22:45:37.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
