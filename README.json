@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 944,
+                "stars": 946,
                 "topics": [
                   "average",
                   "bands",
@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-25T12:10:03Z",
+                "last_commit": "2026-10-26T13:40:03Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1331,
+                "stars": 1334,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -146,8 +146,8 @@
                     "id": 257615431,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T06:46:14Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-26T04:19:11Z",
+                    "open_issues": 6,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
                     "stars": 1886,
@@ -454,7 +454,7 @@
             "open_issues": 0,
             "owner": "revanthpobala",
             "repo": "pinescript-vscode-extension",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:39.421Z"
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:50:14.607Z",
+    "last_updated": "2026-10-27T00:06:49.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
