@@ -76,7 +76,7 @@
 
 ### Screeners
 
-* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,344 | 🐛 3 | 🌐 Python | 📅 2026-11-02 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
+* [TradingView-Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,345 | 🐛 3 | 🌐 Python | 📅 2026-11-03 - *A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.*
 * [Indices Sector Sigma Spikes](https://www.tradingview.com/script/B3aLMAHh-Indices-Sector-SigmaSpikes/) - *This screener aims to provide Bird-Eye view across sector indices, to find which sector is having significant or 'out-of-norm' move in either direction.*
 * [Mean Reversion Channel](https://www.tradingview.com/script/Lr5QD0kK-Screener-Mean-Reversion-Channel/) - *The screener works by scanning through up to 40 symbols and list down symbols that are currently within Overbought/Oversold Zone as defined by Mean Reversion Channel indicator.*
 * [120 ticker Screener](https://www.tradingview.com/script/0h0gKNcy-120x-ticker-screener-composite-tickers/) - *In specific circumstances, it is possible to extract data, far above the 40 \`request.*()\` call limit for 1 single script.\*
@@ -121,7 +121,7 @@
 
 #### Python
 
-* [Python Webhook Alert Provider](https://github.com/fabston/TradingView-Webhook-Bot) ⭐ 1,892 | 🐛 6 | 🌐 Python | 📅 2026-10-26 - *The TradingView Webhook Bot listens to TradingView alerts via webhooks using flask. All alerts can be instantly sent to Telegram, Discord, Twitter and/or Email.*
+* [Python Webhook Alert Provider](https://github.com/fabston/TradingView-Webhook-Bot) ⭐ 1,893 | 🐛 6 | 🌐 Python | 📅 2026-10-26 - *The TradingView Webhook Bot listens to TradingView alerts via webhooks using flask. All alerts can be instantly sent to Telegram, Discord, Twitter and/or Email.*
 * [Misc Collection](https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance) ⭐ 1,442 | 🐛 21 | 🌐 Python | 📅 2023-06-26 - *This repo includes various python crypto bots with a tradingview alert bot.*
 * [Python TradingView TA](https://github.com/deathlyface/python-tradingview-ta) ⚠️ Archived - *Unofficial TradingView technical analysis API wrapper.*
 * [Python Bybit Pine Bot](https://github.com/Mtemi/Bybit-Auto-Trading-Bot-Ordes-placed-via-TradingView-Webhook) ⭐ 526 | 🐛 12 | 🌐 Python | 📅 2023-02-16 - *Python based Trading Bot that uses TradingView\.com webhook JSON alerts to place orders(buy/sell/close/manage positions/TP/SL/TS etc.) on Bybit.com.*
@@ -172,7 +172,7 @@
 
 ## Development Tools
 
-* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 39 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 - *Professional Language Support for Pine Script. Static analysis, type-infection checking, and intelligent tooltips for advanced TradingView developers.*
+* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 38 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 - *Professional Language Support for Pine Script. Static analysis, type-infection checking, and intelligent tooltips for advanced TradingView developers.*
 * [pine-script-linter](https://www.npmjs.com/package/pinescript-linter) - *A linter for Pine Script to enforce coding standards and catch common errors.*
 * [pine-script-visual-studio-code](https://github.com/pine-language-tools/pine-script-visual-studio-code) - *Sublime Text/VSCode package for Pine Script v5 with a few VSCode-specific features added.*
 
@@ -192,7 +192,7 @@
 * [Digital Signal Processing](https://www.pinecoders.com/techniques/dsp/) - *Digital Signal Procession Techniques in Pine.*
 * [FAQ](https://www.pinecoders.com/faq_and_code/) - *A powerful, curated list of frequently asked questions. Bookmark this.*
 * [Kodify](https://kodify.net/tradingview-programming-articles/) - *Tutorials on various topics for beginners and more experienced coders alike.*
-* [Pine Coders Utils](https://github.com/pinecoders/pine-utils) ⭐ 441 | 🐛 0 | 📅 2019-08-22 - *Reusable code snippets, tricks & tips.*
+* [Pine Coders Utils](https://github.com/pinecoders/pine-utils) ⭐ 442 | 🐛 0 | 📅 2019-08-22 - *Reusable code snippets, tricks & tips.*
 * [Pine Coders Website](https://www.pinecoders.com/) - *Useful information for Pine coders.*
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/pine-script) - *Ask questions tagged with pine-script.*
 * [What is Repainting?](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Repainting.html) - *It's not fun. You should learn about it.*
@@ -213,4 +213,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
