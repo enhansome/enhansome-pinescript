@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 959,
+                "stars": 962,
                 "topics": [
                   "average",
                   "bands",
@@ -89,7 +89,7 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T16:56:26Z",
+                "last_commit": "2026-11-10T15:17:24Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
@@ -247,7 +247,7 @@
                     "open_issues": 12,
                     "owner": "Mtemi",
                     "repo": "Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts",
-                    "stars": 527,
+                    "stars": 528,
                     "topics": [
                       "3commas",
                       "3commas-api",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:59:01.900Z",
+    "last_updated": "2026-11-11T00:55:49.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -473,10 +473,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-02-28T04:03:37Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1955,
+      "stars": 1956,
       "topics": [
         "algorithmic-trading",
         "collections",
