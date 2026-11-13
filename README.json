@@ -89,7 +89,7 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T14:47:01Z",
+                "last_commit": "2026-11-12T15:39:48Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
@@ -150,7 +150,7 @@
                     "open_issues": 3,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1901,
+                    "stars": 1902,
                     "topics": [
                       "bitcoin",
                       "bot",
@@ -188,7 +188,7 @@
                     "open_issues": 21,
                     "owner": "Roibal",
                     "repo": "Cryptocurrency-Trading-Bots-Python-Beginner-Advance",
-                    "stars": 1443,
+                    "stars": 1444,
                     "topics": [
                       "algo",
                       "binance-trading-bot",
@@ -222,7 +222,7 @@
                     "open_issues": 41,
                     "owner": "AnalyzerREST",
                     "repo": "python-tradingview-ta",
-                    "stars": 1259,
+                    "stars": 1260,
                     "topics": [
                       "technical-analysis",
                       "tradingview",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T02:01:33.417Z",
+    "last_updated": "2026-11-13T01:31:37.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -476,7 +476,7 @@
       "open_issues": 19,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1956,
+      "stars": 1957,
       "topics": [
         "algorithmic-trading",
         "collections",
