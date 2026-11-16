@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-14T13:51:12Z",
+                "last_commit": "2026-11-15T14:24:10Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1358,
+                "stars": 1360,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -150,7 +150,7 @@
                     "open_issues": 4,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1908,
+                    "stars": 1909,
                     "topics": [
                       "bitcoin",
                       "bot",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:25:35.907Z",
+    "last_updated": "2026-11-16T00:25:42.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -476,7 +476,7 @@
       "open_issues": 20,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1966,
+      "stars": 1967,
       "topics": [
         "algorithmic-trading",
         "collections",
