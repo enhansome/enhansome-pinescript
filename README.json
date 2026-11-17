@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 965,
+                "stars": 966,
                 "topics": [
                   "average",
                   "bands",
@@ -57,7 +57,7 @@
                 "open_issues": 0,
                 "owner": "bingit2",
                 "repo": "TradingView-to-ThinkorSwim",
-                "stars": 146,
+                "stars": 147,
                 "topics": [
                   "indicators",
                   "investing",
@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-15T14:24:10Z",
+                "last_commit": "2026-11-16T16:32:25Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1360,
+                "stars": 1362,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -150,7 +150,7 @@
                     "open_issues": 4,
                     "owner": "fabston",
                     "repo": "TradingView-Webhook-Bot",
-                    "stars": 1909,
+                    "stars": 1910,
                     "topics": [
                       "bitcoin",
                       "bot",
@@ -315,7 +315,7 @@
                     "open_issues": 0,
                     "owner": "quantium-ai",
                     "repo": "signal",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": [
                       "alert",
                       "alerts",
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T00:25:42.918Z",
+    "last_updated": "2026-11-17T03:14:21.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -472,11 +472,11 @@
       "id": 288394937,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-02-28T04:03:37Z",
+      "last_commit": "2026-11-17T03:12:35Z",
       "open_issues": 20,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1967,
+      "stars": 1971,
       "topics": [
         "algorithmic-trading",
         "collections",
@@ -497,7 +497,7 @@
         "tradingview-pine-scripts"
       ]
     },
-    "original_repository_sha": "390beb3cf68e629a4279b6d035456aef67873bc8",
+    "original_repository_sha": "8be491189f313b4f0d9712a3d56056b1a898d2b1",
     "enhanced_repository": "enhansome/enhansome-pinescript",
     "enhanced_repository_description": null,
     "title": "awesome-pinescript with stars"
