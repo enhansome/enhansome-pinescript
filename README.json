@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 966,
+                "stars": 968,
                 "topics": [
                   "average",
                   "bands",
@@ -44,7 +44,7 @@
             {
               "node_type": "item",
               "title": "Pine Script To ThinkScript Repo",
-              "description": "Repository of Pine Script Indicators converted to TOS ThinkScript",
+              "description": "Repository of Pine Script indicators converted to TOS ThinkScript.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -79,7 +79,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "TradingView-Screener",
+              "title": "TradingView Screener",
               "description": "A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.",
               "children": [],
               "repo_info": {
@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-16T16:32:25Z",
+                "last_commit": "2026-11-17T16:32:31Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1362,
+                "stars": 1365,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -128,7 +128,7 @@
       "title": "Indicators"
     },
     {
-      "description": null,
+      "description": "Every service below turns an alert into an order. The open-source ones you run yourself; the closed-source ones are accounts you point a webhook at.",
       "items": [
         {
           "children": [
@@ -136,46 +136,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Python Webhook Alert Provider",
-                  "description": "The TradingView Webhook Bot listens to TradingView alerts via webhooks using flask. All alerts can be instantly sent to Telegram, Discord, Twitter and/or Email.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email. ",
-                    "homepage": null,
-                    "id": 257615431,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-11-14T02:37:56Z",
-                    "open_issues": 4,
-                    "owner": "fabston",
-                    "repo": "TradingView-Webhook-Bot",
-                    "stars": 1910,
-                    "topics": [
-                      "bitcoin",
-                      "bot",
-                      "crypto",
-                      "discord",
-                      "docker",
-                      "flask",
-                      "slack",
-                      "telegram",
-                      "trading",
-                      "tradingview",
-                      "tradingview-webhook-bot",
-                      "tweepy",
-                      "twitter",
-                      "webhook",
-                      "webhooks",
-                      "webhooks-json"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T04:55:39.421Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Misc Collection",
-                  "description": "This repo includes various python crypto bots with a tradingview alert bot.",
+                  "description": "Various Python crypto bots, with a TradingView alert bot.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -208,33 +170,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Python TradingView TA",
-                  "description": "Unofficial TradingView technical analysis API wrapper.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Unofficial TradingView technical analysis API wrapper.",
-                    "homepage": "https://python-tradingview-ta.readthedocs.io/",
-                    "id": 262501214,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-03-23T15:11:28Z",
-                    "open_issues": 41,
-                    "owner": "AnalyzerREST",
-                    "repo": "python-tradingview-ta",
-                    "stars": 1260,
-                    "topics": [
-                      "technical-analysis",
-                      "tradingview",
-                      "tradingview-ta"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T04:55:39.421Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Python Bybit Pine Bot",
-                  "description": "Python based Trading Bot that uses TradingView.com webhook JSON alerts to place orders(buy/sell/close/manage positions/TP/SL/TS etc.) on Bybit.com.",
+                  "description": "Places orders (buy, sell, close, manage positions, TP, SL, TS and so on) on Bybit from TradingView webhook JSON alerts.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -275,7 +212,7 @@
                 {
                   "node_type": "item",
                   "title": "Python Pine Bot Client",
-                  "description": "Client implementation of trading bot that uses Pine Script and Python.",
+                  "description": "Client implementation of a trading bot that uses Pine Script and Python.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -301,38 +238,33 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Quantium Signal",
-                  "description": "Quantium Signal is a self-hosted SMTP server that allows the use of TradingView alerts without the premium plan.",
+                  "title": "TradingView Webhook Receiver",
+                  "description": "Self-hosted, dependency-free receiver that turns TradingView alerts into broker order requests, with a secret check, duplicate protection, size and price limits, a market-hours check, a kill switch and an audit log. Ships with a paper adapter only.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Unlock TradingView alerts without the premium plan using Quantium Signal.",
-                    "homepage": null,
-                    "id": 936704575,
+                    "description": "TradingView alert to broker-order bridge with six safeguards: secret check, one-time handling, sanity limits, market hours, kill switch, audit log. Paper adapter only; no strategy, no signals.",
+                    "homepage": "https://tradevectors.com/blog/turn-a-tradingview-strategy-into-a-bot/",
+                    "id": 1385002547,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2025-02-25T12:04:52Z",
+                    "last_commit": "2026-10-13T18:33:37Z",
                     "open_issues": 0,
-                    "owner": "quantium-ai",
-                    "repo": "signal",
-                    "stars": 22,
+                    "owner": "tradevectorsrobots",
+                    "repo": "tradingview-webhook-receiver",
+                    "stars": 0,
                     "topics": [
-                      "alert",
-                      "alerts",
-                      "basic",
-                      "binance",
-                      "bybit",
-                      "crypto",
-                      "free",
-                      "okx",
-                      "pionex",
-                      "signal",
-                      "smtp",
+                      "algorithmic-trading",
+                      "interactive-brokers",
+                      "pine-script",
+                      "python",
+                      "trading-bot",
                       "tradingview",
-                      "webhook"
+                      "webhook",
+                      "zerodha"
                     ]
                   },
-                  "first_seen": "2026-08-28T04:55:39.421Z"
+                  "first_seen": "2026-11-18T02:38:06.827Z"
                 }
               ],
               "description": null,
@@ -344,7 +276,7 @@
                 {
                   "node_type": "item",
                   "title": "Fundingrate Backend",
-                  "description": "Backend service converting tradingview alerts into action.",
+                  "description": "Backend service converting TradingView alerts into action.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -376,7 +308,7 @@
                 {
                   "node_type": "item",
                   "title": "Instabot Trader",
-                  "description": "Server Side bot that powers Alertatron. A simple tool to convert text messages sent over HTTP or via a Telegram bot into a set of trading orders, to a variety of exchanges (Bitfinex, Deribit and Coinbase Pro).",
+                  "description": "Server-side bot that powers Alertatron: converts text messages sent over HTTP or via a Telegram bot into a set of trading orders on a variety of exchanges (Bitfinex, Deribit and Coinbase Pro).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -397,14 +329,14 @@
               ],
               "description": null,
               "node_type": "group",
-              "title": "Javascript"
+              "title": "JavaScript"
             },
             {
               "children": [
                 {
                   "node_type": "item",
                   "title": "Autoview Chrome Docker Bot",
-                  "description": "Dockerized Autoview Extension on a VPS.",
+                  "description": "Dockerized Autoview extension on a VPS.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -436,12 +368,410 @@
       "title": "Automated Order Execution"
     },
     {
+      "description": "Delivers the alert, and stops there, with no order attached. Kept apart from the section above because a reader looking for automation is not looking for a notifier.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python Webhook Alert Provider",
+          "description": "Listens to TradingView alerts over a webhook with Flask and forwards them to Telegram, Discord, Twitter and email.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email. ",
+            "homepage": null,
+            "id": 257615431,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-14T02:37:56Z",
+            "open_issues": 4,
+            "owner": "fabston",
+            "repo": "TradingView-Webhook-Bot",
+            "stars": 1912,
+            "topics": [
+              "bitcoin",
+              "bot",
+              "crypto",
+              "discord",
+              "docker",
+              "flask",
+              "slack",
+              "telegram",
+              "trading",
+              "tradingview",
+              "tradingview-webhook-bot",
+              "tweepy",
+              "twitter",
+              "webhook",
+              "webhooks",
+              "webhooks-json"
+            ]
+          },
+          "first_seen": "2026-08-28T04:55:39.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Quantium Signal",
+          "description": "A self-hosted SMTP server that lets you use TradingView alerts without the premium plan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Unlock TradingView alerts without the premium plan using Quantium Signal.",
+            "homepage": null,
+            "id": 936704575,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-02-25T12:04:52Z",
+            "open_issues": 0,
+            "owner": "quantium-ai",
+            "repo": "signal",
+            "stars": 22,
+            "topics": [
+              "alert",
+              "alerts",
+              "basic",
+              "binance",
+              "bybit",
+              "crypto",
+              "free",
+              "okx",
+              "pionex",
+              "signal",
+              "smtp",
+              "tradingview",
+              "webhook"
+            ]
+          },
+          "first_seen": "2026-08-28T04:55:39.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mkt-alerts",
+          "description": "Self-hosted CLI that evaluates Pine Script v5 indicators independently and delivers price, RSI, MACD and custom alerts via ntfy, email or Telegram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hosted market alerts (price, RSI, Pine Script v5) via push, email & Telegram — run TradingView-style alerts off-platform.",
+            "homepage": "https://agentlabs.cc/agentsdata",
+            "id": 1284572473,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-24T08:41:38Z",
+            "open_issues": 0,
+            "owner": "dzianisv",
+            "repo": "mkt-alerts",
+            "stars": 3,
+            "topics": [
+              "ai-agents",
+              "alerting",
+              "alerts",
+              "crypto",
+              "mcp",
+              "notifications",
+              "pine-script",
+              "rsi",
+              "self-hosted",
+              "stocks",
+              "technical-analysis",
+              "telegram-bot",
+              "trading",
+              "tradingview"
+            ]
+          },
+          "first_seen": "2026-11-18T02:38:06.827Z"
+        }
+      ],
+      "title": "Alerts & Notifications"
+    },
+    {
+      "description": "The language used to be locked to the platform. These projects run a Pine script from your own machine or browser, against your own OHLCV data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PineTS",
+          "description": "Transpiler and runtime that executes Pine Script indicators and strategies outside TradingView, published as the npm package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Run Pine Script® anywhere. PineTS is LuxAlgo's open-source Pine Script® runtime for Node.js and the browser.",
+            "homepage": "https://docs.luxalgo.com/developers/pinets",
+            "id": 924426714,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-13T21:23:18Z",
+            "open_issues": 53,
+            "owner": "LuxAlgo",
+            "repo": "PineTS",
+            "stars": 960,
+            "topics": [
+              "backtesting",
+              "luxalgo",
+              "pine-script",
+              "pinescript",
+              "pinescript-algorithms",
+              "pinescript-indicators",
+              "pinescript-strategies",
+              "pinescript-tricks",
+              "pinescript-v5",
+              "pinescript-v6",
+              "quant-finance",
+              "quantitative-finance",
+              "runtime",
+              "technical-analysis",
+              "trading",
+              "trading-algorithms",
+              "trading-strategies",
+              "trading-strategy-simulation",
+              "tradingview",
+              "transpiler"
+            ]
+          },
+          "first_seen": "2026-11-18T02:38:06.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pynecore",
+          "description": "A Pine Script-compatible Python runtime for indicators and strategies, aimed at backtesting and live execution from Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pine Script-compatible Python runtime for indicators and strategies, validated against TradingView on real published scripts",
+            "homepage": "https://pynecore.org",
+            "id": 911400708,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-17T18:21:03Z",
+            "open_issues": 4,
+            "owner": "PyneSys",
+            "repo": "pynecore",
+            "stars": 273,
+            "topics": [
+              "algorithmic-trading",
+              "backtesting",
+              "backtesting-engine",
+              "financial-data",
+              "framework",
+              "library",
+              "open-source",
+              "pine-script",
+              "pinescript",
+              "python",
+              "technical-analysis",
+              "trading-indicators",
+              "trading-strategies",
+              "tradingview"
+            ]
+          },
+          "first_seen": "2026-11-18T02:38:06.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pineforge-engine",
+          "description": "Open-source C++17 engine for backtesting and forward execution of Pine strategies at speed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source C++17 engine for backtesting and forward execution, with a versioned C ABI; Pine Script v6 runs through code generation. Against TradingView's own trade lists, all 7,989 graded probes (309 open-corpus strategies, 741 closed-test scripts) grade excellent or strong: 7,983 excellent, 6 strong. Apache-2.0.",
+            "homepage": "https://pineforge.dev",
+            "id": 1229472500,
+            "language": "C++",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-18T01:45:28Z",
+            "open_issues": 13,
+            "owner": "pineforge-4pass",
+            "repo": "pineforge-engine",
+            "stars": 214,
+            "topics": [
+              "algorithmic-trading",
+              "backtesting",
+              "c-api",
+              "cpp",
+              "cpp17",
+              "crypto",
+              "deterministic",
+              "ffi",
+              "finance",
+              "mcp",
+              "open-source",
+              "pine-script",
+              "pineforge",
+              "pinescript",
+              "quantitative-finance",
+              "strategy-tester",
+              "technical-analysis",
+              "trading-engine",
+              "trading-strategies",
+              "tradingview"
+            ]
+          },
+          "first_seen": "2026-11-18T02:38:06.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPineScript",
+          "description": "Open-source Pine Script compiler and runtime for v1 through v6, in Node.js, the browser or Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Run TradingView Pine Script v1–v6 locally: indicators, plots and strategy backtests, verified against TradingView. Powers Zeal Terminal.",
+            "homepage": "https://be-thomas.github.io/OpenPineScript/",
+            "id": 903295638,
+            "language": "TypeScript",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-13T17:40:45Z",
+            "open_issues": 0,
+            "owner": "be-thomas",
+            "repo": "OpenPineScript",
+            "stars": 78,
+            "topics": [
+              "algorithmic-trading",
+              "backtesting",
+              "compiler",
+              "fintech",
+              "javascript",
+              "pine-script",
+              "pine-script-v5",
+              "pine-script-v6",
+              "pinescript",
+              "pinescript-v6",
+              "technical-analysis",
+              "trading-strategies",
+              "tradingview"
+            ]
+          },
+          "first_seen": "2026-11-18T02:38:06.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DegenView",
+          "description": "An open-source TradingView alternative that renders Pine scripts on its own charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source TradingView alternative with Pine script support",
+            "homepage": "https://degenview.app",
+            "id": 1412869635,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-17T18:42:13Z",
+            "open_issues": 30,
+            "owner": "degenview",
+            "repo": "degenview",
+            "stars": 71,
+            "topics": [
+              "charts",
+              "crypto",
+              "pine-script",
+              "pinescript",
+              "stock",
+              "trading",
+              "tradingview"
+            ]
+          },
+          "first_seen": "2026-11-18T02:38:06.827Z"
+        }
+      ],
+      "title": "Running Pine Outside TradingView"
+    },
+    {
       "description": null,
       "items": [
         {
           "node_type": "item",
+          "title": "Python TradingView TA",
+          "description": "Unofficial TradingView technical analysis wrapper. Reads the ratings off a symbol's page, which is the cheapest way to get a second opinion into a script.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Unofficial TradingView technical analysis API wrapper.",
+            "homepage": "https://python-tradingview-ta.readthedocs.io/",
+            "id": 262501214,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-03-23T15:11:28Z",
+            "open_issues": 41,
+            "owner": "AnalyzerREST",
+            "repo": "python-tradingview-ta",
+            "stars": 1260,
+            "topics": [
+              "technical-analysis",
+              "tradingview",
+              "tradingview-ta"
+            ]
+          },
+          "first_seen": "2026-08-28T04:55:39.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TradingView MCP server",
+          "description": "Model Context Protocol server that searches TradingView's indicators and strategies and returns their Pine source, so an agent can read the code before it writes any.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TradingView MCP server: search indicators and strategies, fetch Pine Script source. Works with Claude Code, Claude Desktop and Cursor. No API key needed.",
+            "homepage": null,
+            "id": 1311945816,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-07-25T12:00:12Z",
+            "open_issues": 0,
+            "owner": "daviddme",
+            "repo": "tradingview-indicator-search-mcp-server",
+            "stars": 139,
+            "topics": [
+              "ai-agents",
+              "algorithmic-trading",
+              "backtesting",
+              "claude",
+              "claude-code",
+              "claude-desktop",
+              "cursor",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "pine-script",
+              "pinescript",
+              "technical-analysis",
+              "technical-indicators",
+              "trading",
+              "trading-strategies",
+              "tradingview"
+            ]
+          },
+          "first_seen": "2026-11-18T02:38:06.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TradingView strategy optimizer",
+          "description": "Open-source browser extension that grid-searches and walk-forward tests a strategy's inputs, and draws the result as a heatmap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open-source TradingView strategy optimizer for Chrome. Grid search, walk-forward, heatmaps. By Roboquant.",
+            "homepage": "https://roboquant.dev",
+            "id": 1374323444,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-21T09:37:24Z",
+            "open_issues": 1,
+            "owner": "Roboquant-AI",
+            "repo": "tradingview-optimizer",
+            "stars": 60,
+            "topics": [
+              "backtesting",
+              "chrome-extension",
+              "pine-script",
+              "strategy-optimization",
+              "trading",
+              "tradingview",
+              "walk-forward"
+            ]
+          },
+          "first_seen": "2026-11-18T02:38:06.827Z"
+        },
+        {
+          "node_type": "item",
           "title": "Pine Script Pro",
-          "description": "Professional Language Support for Pine Script. Static analysis, type-infection checking, and intelligent tooltips for advanced TradingView developers.",
+          "description": "Professional language support for Pine Script: static analysis, type-infection checking and intelligent tooltips for advanced TradingView developers.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -458,27 +788,103 @@
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:39.421Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Pine Script lookahead checker",
+          "description": "Open-source static check that flags calls using without a history offset, which leak higher-timeframe values into past bars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Source of the free calculators on stochastly.com: deflated Sharpe ratio, MinTRL, PBO, prop firm simulator and more. MIT.",
+            "homepage": "https://stochastly.com/tools",
+            "id": 1421551348,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-14T16:10:08Z",
+            "open_issues": 0,
+            "owner": "Causal64",
+            "repo": "stochastly-calculators",
+            "stars": 0,
+            "topics": [
+              "backtesting",
+              "deflated-sharpe-ratio",
+              "probability-of-backtest-overfitting",
+              "quantitative-finance",
+              "sharpe-ratio",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-11-18T02:38:06.827Z"
         }
       ],
       "title": "Development Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pine Coders Utils",
+          "description": "Reusable code snippets, tricks and tips.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code Snippets + Tricks & Tips to help Pine Script developers",
+            "homepage": null,
+            "id": 197976457,
+            "language": null,
+            "license": "GPL-3.0",
+            "last_commit": "2019-08-22T03:21:01Z",
+            "open_issues": 0,
+            "owner": "pinecoders",
+            "repo": "pine-utils",
+            "stars": 444,
+            "topics": [
+              "boilerplates",
+              "guides",
+              "indicators",
+              "pine",
+              "pinescript",
+              "pinescript-guides",
+              "pinescript-indicators",
+              "pinescript-strategies",
+              "pinescript-tricks",
+              "snippets",
+              "strategies",
+              "templates",
+              "tips",
+              "tips-and-tricks",
+              "tradingview",
+              "tradingview-pinescript",
+              "tricks",
+              "utils"
+            ]
+          },
+          "first_seen": "2026-11-18T02:38:06.827Z"
+        }
+      ],
+      "title": "Learning Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:14:21.289Z",
+    "last_updated": "2026-11-18T02:38:06.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
       "homepage": null,
       "id": 288394937,
-      "language": null,
+      "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-17T03:12:35Z",
-      "open_issues": 20,
+      "last_commit": "2026-11-17T07:14:17Z",
+      "open_issues": 9,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1971,
+      "stars": 1977,
       "topics": [
         "algorithmic-trading",
+        "awesome",
+        "awesome-list",
         "collections",
         "pine",
         "pinescript",
@@ -497,9 +903,9 @@
         "tradingview-pine-scripts"
       ]
     },
-    "original_repository_sha": "8be491189f313b4f0d9712a3d56056b1a898d2b1",
+    "original_repository_sha": "686ad5f399eeeca0a85b9fd48b5e5c4220de8550",
     "enhanced_repository": "enhansome/enhansome-pinescript",
     "enhanced_repository_description": null,
-    "title": "awesome-pinescript with stars"
+    "title": "Awesome pinescript with stars"
   }
 }
