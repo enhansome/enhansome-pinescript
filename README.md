@@ -198,11 +198,11 @@ because a reader looking for automation is not looking for a notifier.
 
 The language used to be locked to the platform. These projects run a Pine script from your own machine or browser, against your own OHLCV data.
 
-* [PineTS](https://github.com/LuxAlgo/PineTS) ⭐ 960 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-13 - Transpiler and runtime that executes Pine Script indicators and strategies outside TradingView, published as the `pinets` npm package.
-* [pynecore](https://github.com/PyneSys/pynecore) ⭐ 273 | 🐛 4 | 🌐 Python | 📅 2026-11-17 - A Pine Script-compatible Python runtime for indicators and strategies, aimed at backtesting and live execution from Python.
-* [pineforge-engine](https://github.com/pineforge-4pass/pineforge-engine) ⭐ 214 | 🐛 13 | 🌐 C++ | 📅 2026-11-18 - Open-source C++17 engine for backtesting and forward execution of Pine strategies at speed.
+* [PineTS](https://github.com/LuxAlgo/PineTS) ⭐ 963 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-13 - Transpiler and runtime that executes Pine Script indicators and strategies outside TradingView, published as the `pinets` npm package.
+* [pynecore](https://github.com/PyneSys/pynecore) ⭐ 274 | 🐛 4 | 🌐 Python | 📅 2026-11-18 - A Pine Script-compatible Python runtime for indicators and strategies, aimed at backtesting and live execution from Python.
+* [pineforge-engine](https://github.com/pineforge-4pass/pineforge-engine) ⭐ 216 | 🐛 11 | 🌐 C++ | 📅 2026-11-18 - Open-source C++17 engine for backtesting and forward execution of Pine strategies at speed.
+* [DegenView](https://github.com/degenview/degenview) ⭐ 83 | 🐛 36 | 🌐 Rust | 📅 2026-11-19 - An open-source TradingView alternative that renders Pine scripts on its own charts.
 * [OpenPineScript](https://github.com/be-thomas/OpenPineScript) ⭐ 78 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Open-source Pine Script compiler and runtime for v1 through v6, in Node.js, the browser or Python.
-* [DegenView](https://github.com/degenview/degenview) ⭐ 71 | 🐛 30 | 🌐 Rust | 📅 2026-11-17 - An open-source TradingView alternative that renders Pine scripts on its own charts.
 
 <a name="Development-Tools" />
 
@@ -244,4 +244,4 @@ The language used to be locked to the platform. These projects run a Pine script
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

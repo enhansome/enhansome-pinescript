@@ -501,7 +501,7 @@
             "open_issues": 53,
             "owner": "LuxAlgo",
             "repo": "PineTS",
-            "stars": 960,
+            "stars": 963,
             "topics": [
               "backtesting",
               "luxalgo",
@@ -539,11 +539,11 @@
             "id": 911400708,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T18:21:03Z",
+            "last_commit": "2026-11-18T18:53:02Z",
             "open_issues": 4,
             "owner": "PyneSys",
             "repo": "pynecore",
-            "stars": 273,
+            "stars": 274,
             "topics": [
               "algorithmic-trading",
               "backtesting",
@@ -570,16 +570,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Open-source C++17 engine for backtesting and forward execution, with a versioned C ABI; Pine Script v6 runs through code generation. Against TradingView's own trade lists, all 7,989 graded probes (309 open-corpus strategies, 741 closed-test scripts) grade excellent or strong: 7,983 excellent, 6 strong. Apache-2.0.",
+            "description": "Open-source C++17 engine for backtesting and forward execution, with a versioned C ABI; Pine Script v6 runs through code generation. Against TradingView's own trade lists, all 7,993 graded probes (309 open-corpus strategies, 741 closed-test scripts) grade excellent or strong: 7,979 excellent, 14 strong. Apache-2.0.",
             "homepage": "https://pineforge.dev",
             "id": 1229472500,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T01:45:28Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-18T16:00:06Z",
+            "open_issues": 11,
             "owner": "pineforge-4pass",
             "repo": "pineforge-engine",
-            "stars": 214,
+            "stars": 216,
             "topics": [
               "algorithmic-trading",
               "backtesting",
@@ -600,6 +600,35 @@
               "technical-analysis",
               "trading-engine",
               "trading-strategies",
+              "tradingview"
+            ]
+          },
+          "first_seen": "2026-11-18T02:38:06.827Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DegenView",
+          "description": "An open-source TradingView alternative that renders Pine scripts on its own charts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source TradingView alternative with Pine script support",
+            "homepage": "https://degenview.app",
+            "id": 1412869635,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-19T00:04:43Z",
+            "open_issues": 36,
+            "owner": "degenview",
+            "repo": "degenview",
+            "stars": 83,
+            "topics": [
+              "charts",
+              "crypto",
+              "pine-script",
+              "pinescript",
+              "stock",
+              "trading",
               "tradingview"
             ]
           },
@@ -635,35 +664,6 @@
               "pinescript-v6",
               "technical-analysis",
               "trading-strategies",
-              "tradingview"
-            ]
-          },
-          "first_seen": "2026-11-18T02:38:06.827Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DegenView",
-          "description": "An open-source TradingView alternative that renders Pine scripts on its own charts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Open-source TradingView alternative with Pine script support",
-            "homepage": "https://degenview.app",
-            "id": 1412869635,
-            "language": "Rust",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-17T18:42:13Z",
-            "open_issues": 30,
-            "owner": "degenview",
-            "repo": "degenview",
-            "stars": 71,
-            "topics": [
-              "charts",
-              "crypto",
-              "pine-script",
-              "pinescript",
-              "stock",
-              "trading",
               "tradingview"
             ]
           },
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:38:06.827Z",
+    "last_updated": "2026-11-19T02:03:54.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -880,7 +880,7 @@
       "open_issues": 9,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1977,
+      "stars": 1980,
       "topics": [
         "algorithmic-trading",
         "awesome",
