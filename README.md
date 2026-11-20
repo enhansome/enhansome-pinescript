@@ -89,7 +89,7 @@
 
 ### Collections
 
-* [Pine Script Indicators Collection](https://github.com/everget/tradingview-pinescript-indicators) ⭐ 968 | 🐛 0 | 📅 2026-10-19 - A collection of various technical indicators.
+* [Pine Script Indicators Collection](https://github.com/everget/tradingview-pinescript-indicators) ⭐ 967 | 🐛 0 | 📅 2026-10-19 - A collection of various technical indicators.
 * [Pine Script To ThinkScript Repo](https://github.com/bingit2/TradingView-to-ThinkorSwim) ⭐ 147 | 🐛 0 | 📅 2021-01-30 - Repository of Pine Script indicators converted to TOS ThinkScript.
 * [Pine Coders Publications](https://www.tradingview.com/u/PineCoders/#published-scripts) - A plethora of useful techniques developed by the Pine Coders account.
 * [Traderslist](https://www.traderslist.io) - Discover trading indicators, tools and algorithms.
@@ -101,7 +101,7 @@
 
 ### Screeners
 
-* [TradingView Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,365 | 🐛 3 | 🌐 Python | 📅 2026-11-17 - A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.
+* [TradingView Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,365 | 🐛 3 | 🌐 Python | 📅 2026-11-19 - A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.
 * [Indices Sector Sigma Spikes](https://www.tradingview.com/script/B3aLMAHh-Indices-Sector-SigmaSpikes/) - Aims to provide a bird's-eye view across sector indices, to find which sector is having a significant or 'out-of-norm' move in either direction.
 * [Mean Reversion Channel](https://www.tradingview.com/script/Lr5QD0kK-Screener-Mean-Reversion-Channel/) - Scans through up to 40 symbols and lists the symbols that are currently within the overbought or oversold zone as defined by the Mean Reversion Channel indicator.
 * [120 Ticker Screener](https://www.tradingview.com/script/0h0gKNcy-120x-ticker-screener-composite-tickers/) - In specific circumstances it is possible to extract data far above the 40 `request.*()` call limit for one script.
@@ -143,8 +143,8 @@ closed-source ones are accounts you point a webhook at.
 
 #### Python
 
-* [Misc Collection](https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance) ⭐ 1,445 | 🐛 21 | 🌐 Python | 📅 2023-06-26 - Various Python crypto bots, with a TradingView alert bot.
-* [Python Bybit Pine Bot](https://github.com/Mtemi/Bybit-Auto-Trading-Bot-Ordes-placed-via-TradingView-Webhook) ⭐ 530 | 🐛 12 | 🌐 Python | 📅 2023-02-16 - Places orders (buy, sell, close, manage positions, TP, SL, TS and so on) on Bybit from TradingView webhook JSON alerts.
+* [Misc Collection](https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance) ⭐ 1,444 | 🐛 21 | 🌐 Python | 📅 2023-06-26 - Various Python crypto bots, with a TradingView alert bot.
+* [Python Bybit Pine Bot](https://github.com/Mtemi/Bybit-Auto-Trading-Bot-Ordes-placed-via-TradingView-Webhook) ⭐ 529 | 🐛 12 | 🌐 Python | 📅 2023-02-16 - Places orders (buy, sell, close, manage positions, TP, SL, TS and so on) on Bybit from TradingView webhook JSON alerts.
 * [Python Pine Bot Client](https://github.com/kzh-dev/pine-bot-client) ⭐ 200 | 🐛 2 | 🌐 Python | 📅 2019-03-05 - Client implementation of a trading bot that uses Pine Script and Python.
 * [TradingView Webhook Receiver](https://github.com/tradevectorsrobots/tradingview-webhook-receiver) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-13 - Self-hosted, dependency-free receiver that turns TradingView alerts into broker order requests, with a secret check, duplicate protection, size and price limits, a market-hours check, a kill switch and an audit log. Ships with a paper adapter only.
 * [OctoBot](https://octobot.online/) - Open-source cryptocurrency trading robot that can receive alerts and turn them into orders on your favorite crypto exchanges.
@@ -189,7 +189,7 @@ and nothing about an entry is decided by that.
 Delivers the alert, and stops there, with no order attached. Kept apart from the section above
 because a reader looking for automation is not looking for a notifier.
 
-* [Python Webhook Alert Provider](https://github.com/fabston/TradingView-Webhook-Bot) ⭐ 1,912 | 🐛 4 | 🌐 Python | 📅 2026-11-14 - Listens to TradingView alerts over a webhook with Flask and forwards them to Telegram, Discord, Twitter and email.
+* [Python Webhook Alert Provider](https://github.com/fabston/TradingView-Webhook-Bot) ⭐ 1,911 | 🐛 4 | 🌐 Python | 📅 2026-11-14 - Listens to TradingView alerts over a webhook with Flask and forwards them to Telegram, Discord, Twitter and email.
 * [Quantium Signal](https://github.com/quantium-ai/signal) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2025-02-25 - A self-hosted SMTP server that lets you use TradingView alerts without the premium plan.
 * [mkt-alerts](https://github.com/dzianisv/mkt-alerts) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 - Self-hosted CLI that evaluates Pine Script v5 indicators independently and delivers price, RSI, MACD and custom alerts via ntfy, email or Telegram.
 * [Alertatron](https://alertatron.com/) - Relays TradingView alerts to Telegram, Discord, Slack, email or a webhook, with a chart snapshot attached.
@@ -199,9 +199,9 @@ because a reader looking for automation is not looking for a notifier.
 The language used to be locked to the platform. These projects run a Pine script from your own machine or browser, against your own OHLCV data.
 
 * [PineTS](https://github.com/LuxAlgo/PineTS) ⭐ 963 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-13 - Transpiler and runtime that executes Pine Script indicators and strategies outside TradingView, published as the `pinets` npm package.
-* [pynecore](https://github.com/PyneSys/pynecore) ⭐ 274 | 🐛 4 | 🌐 Python | 📅 2026-11-18 - A Pine Script-compatible Python runtime for indicators and strategies, aimed at backtesting and live execution from Python.
-* [pineforge-engine](https://github.com/pineforge-4pass/pineforge-engine) ⭐ 216 | 🐛 11 | 🌐 C++ | 📅 2026-11-18 - Open-source C++17 engine for backtesting and forward execution of Pine strategies at speed.
-* [DegenView](https://github.com/degenview/degenview) ⭐ 83 | 🐛 36 | 🌐 Rust | 📅 2026-11-19 - An open-source TradingView alternative that renders Pine scripts on its own charts.
+* [pynecore](https://github.com/PyneSys/pynecore) ⭐ 274 | 🐛 4 | 🌐 Python | 📅 2026-11-19 - A Pine Script-compatible Python runtime for indicators and strategies, aimed at backtesting and live execution from Python.
+* [pineforge-engine](https://github.com/pineforge-4pass/pineforge-engine) ⭐ 215 | 🐛 10 | 🌐 C++ | 📅 2026-11-19 - Open-source C++17 engine for backtesting and forward execution of Pine strategies at speed.
+* [DegenView](https://github.com/degenview/degenview) ⭐ 90 | 🐛 45 | 🌐 Rust | 📅 2026-11-20 - An open-source TradingView alternative that renders Pine scripts on its own charts.
 * [OpenPineScript](https://github.com/be-thomas/OpenPineScript) ⭐ 78 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Open-source Pine Script compiler and runtime for v1 through v6, in Node.js, the browser or Python.
 
 <a name="Development-Tools" />
@@ -209,9 +209,9 @@ The language used to be locked to the platform. These projects run a Pine script
 ## Development Tools
 
 * [Python TradingView TA](https://github.com/deathlyface/python-tradingview-ta) ⚠️ Archived - Unofficial TradingView technical analysis wrapper. Reads the ratings off a symbol's page, which is the cheapest way to get a second opinion into a script.
-* [TradingView MCP server](https://github.com/daviddme/tradingview-indicator-search-mcp-server) ⭐ 139 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25 - Model Context Protocol server that searches TradingView's indicators and strategies and returns their Pine source, so an agent can read the code before it writes any.
+* [TradingView MCP server](https://github.com/daviddme/tradingview-indicator-search-mcp-server) ⭐ 141 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-25 - Model Context Protocol server that searches TradingView's indicators and strategies and returns their Pine source, so an agent can read the code before it writes any.
 * [TradingView strategy optimizer](https://github.com/Roboquant-AI/tradingview-optimizer) ⭐ 60 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-21 - Open-source browser extension that grid-searches and walk-forward tests a strategy's inputs, and draws the result as a heatmap.
-* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 39 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24 - Professional language support for Pine Script: static analysis, type-infection checking and intelligent tooltips for advanced TradingView developers.
+* [Pine Script Pro](https://github.com/revanthpobala/pinescript-vscode-extension) ⭐ 39 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-19 - Professional language support for Pine Script: static analysis, type-infection checking and intelligent tooltips for advanced TradingView developers.
 * [Pine Script lookahead checker](https://github.com/Stochastly/stochastly-calculators/tree/main/pine-script-lookahead-checker) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Open-source static check that flags `request.security` calls using `lookahead_on` without a history offset, which leak higher-timeframe values into past bars.
 * [Charts](https://chartsgg.com/pine-script-editor) - Runs Pine Script and MQL4/MQL5 indicators in the browser on any market, and exports Pine Script to MQL5.
 * [PineGen AI](https://www.pinegen.ai/) - Generates, fixes and backtests compiler-validated Pine Script v6 strategies from plain English.
@@ -227,7 +227,7 @@ The language used to be locked to the platform. These projects run a Pine script
 
 ## Learning Resources
 
-* [Pine Coders Utils](https://github.com/pinecoders/pine-utils) ⭐ 444 | 🐛 0 | 📅 2019-08-22 - Reusable code snippets, tricks and tips.
+* [Pine Coders Utils](https://github.com/pinecoders/pine-utils) ⭐ 443 | 🐛 0 | 📅 2019-08-22 - Reusable code snippets, tricks and tips.
 * [Backtest Rookies](https://backtest-rookies.com/category/tradingview/) - Good quality blog articles focusing on realizing specific tasks in Pine.
 * [Digital Signal Processing](https://www.pinecoders.com/techniques/dsp/) - Techniques for applying DSP to a price series, and what each filter does to it.
 * [FAQ](https://www.pinecoders.com/faq_and_code/) - A powerful, curated list of frequently asked questions. Bookmark this.
@@ -244,4 +244,4 @@ The language used to be locked to the platform. These projects run a Pine script
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
