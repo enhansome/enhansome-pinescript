@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 967,
+                "stars": 968,
                 "topics": [
                   "average",
                   "bands",
@@ -89,11 +89,11 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T16:07:39Z",
+                "last_commit": "2026-11-20T15:48:55Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
-                "stars": 1365,
+                "stars": 1367,
                 "topics": [
                   "cfd",
                   "crypto",
@@ -386,7 +386,7 @@
             "open_issues": 4,
             "owner": "fabston",
             "repo": "TradingView-Webhook-Bot",
-            "stars": 1911,
+            "stars": 1913,
             "topics": [
               "bitcoin",
               "bot",
@@ -501,7 +501,7 @@
             "open_issues": 53,
             "owner": "LuxAlgo",
             "repo": "PineTS",
-            "stars": 963,
+            "stars": 964,
             "topics": [
               "backtesting",
               "luxalgo",
@@ -539,11 +539,11 @@
             "id": 911400708,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T21:35:36Z",
+            "last_commit": "2026-11-20T12:46:10Z",
             "open_issues": 4,
             "owner": "PyneSys",
             "repo": "pynecore",
-            "stars": 274,
+            "stars": 275,
             "topics": [
               "algorithmic-trading",
               "backtesting",
@@ -575,8 +575,8 @@
             "id": 1229472500,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T18:50:55Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-20T11:42:50Z",
+            "open_issues": 52,
             "owner": "pineforge-4pass",
             "repo": "pineforge-engine",
             "stars": 215,
@@ -617,11 +617,11 @@
             "id": 1412869635,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T00:20:54Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-21T01:44:57Z",
+            "open_issues": 43,
             "owner": "degenview",
             "repo": "degenview",
-            "stars": 90,
+            "stars": 95,
             "topics": [
               "charts",
               "crypto",
@@ -755,7 +755,7 @@
             "open_issues": 1,
             "owner": "Roboquant-AI",
             "repo": "tradingview-optimizer",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "backtesting",
               "chrome-extension",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:54:53.356Z",
+    "last_updated": "2026-11-21T01:49:55.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -880,7 +880,7 @@
       "open_issues": 10,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1979,
+      "stars": 1981,
       "topics": [
         "algorithmic-trading",
         "awesome",
