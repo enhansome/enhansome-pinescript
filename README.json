@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "everget",
                 "repo": "tradingview-pinescript-indicators",
-                "stars": 970,
+                "stars": 972,
                 "topics": [
                   "average",
                   "bands",
@@ -89,7 +89,7 @@
                 "id": 497854996,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-24T18:25:14Z",
+                "last_commit": "2026-11-25T17:40:33Z",
                 "open_issues": 3,
                 "owner": "shner-elmo",
                 "repo": "TradingView-Screener",
@@ -386,7 +386,7 @@
             "open_issues": 4,
             "owner": "fabston",
             "repo": "TradingView-Webhook-Bot",
-            "stars": 1919,
+            "stars": 1920,
             "topics": [
               "bitcoin",
               "bot",
@@ -501,7 +501,7 @@
             "open_issues": 50,
             "owner": "LuxAlgo",
             "repo": "PineTS",
-            "stars": 974,
+            "stars": 978,
             "topics": [
               "backtesting",
               "luxalgo",
@@ -543,7 +543,7 @@
             "open_issues": 4,
             "owner": "PyneSys",
             "repo": "pynecore",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "algorithmic-trading",
               "backtesting",
@@ -570,16 +570,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Open-source C++17 engine for backtesting and forward execution, with a versioned C ABI; Pine Script v6 runs through code generation. Against TradingView's own trade lists, all 7,993 graded probes (309 open-corpus strategies, 741 closed-test scripts) grade excellent or strong: 7,979 excellent, 14 strong. Apache-2.0.",
+            "description": "Open-source C++17 engine for backtesting and forward execution, with a versioned C ABI; Pine Script v6 runs through code generation. Against TradingView's own trade lists (309 open-corpus strategies, 741 closed-test scripts), 7,993 graded probes: 5,422 excellent, 857 strong, 1,714 below strong. Apache-2.0.",
             "homepage": "https://pineforge.dev",
             "id": 1229472500,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T03:36:45Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-25T22:37:10Z",
+            "open_issues": 13,
             "owner": "pineforge-4pass",
             "repo": "pineforge-engine",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "algorithmic-trading",
               "backtesting",
@@ -617,11 +617,11 @@
             "id": 1412869635,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T00:39:17Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-26T00:43:16Z",
+            "open_issues": 55,
             "owner": "degenview",
             "repo": "degenview",
-            "stars": 133,
+            "stars": 150,
             "topics": [
               "charts",
               "crypto",
@@ -641,30 +641,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Run TradingView Pine Script v1–v6 locally: indicators, plots and strategy backtests, verified against TradingView. Powers Zeal Terminal.",
+            "description": "Free, open-source TradingView alternative engine: run Pine Script v1–v6 locally (indicators, plots, strategy backtests), verified against TradingView. Powers Zeal Terminal.",
             "homepage": "https://be-thomas.github.io/OpenPineScript/",
             "id": 903295638,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T17:40:45Z",
+            "last_commit": "2026-11-25T15:36:05Z",
             "open_issues": 0,
             "owner": "be-thomas",
             "repo": "OpenPineScript",
             "stars": 79,
             "topics": [
               "algorithmic-trading",
+              "backtest",
               "backtesting",
               "compiler",
+              "crypto",
               "fintech",
               "javascript",
+              "open-source",
               "pine-script",
               "pine-script-v5",
               "pine-script-v6",
               "pinescript",
               "pinescript-v6",
+              "stocks",
+              "strategy-tester",
               "technical-analysis",
+              "trading",
               "trading-strategies",
-              "tradingview"
+              "tradingview",
+              "tradingview-alternative"
             ]
           },
           "first_seen": "2026-11-18T02:38:06.827Z"
@@ -839,7 +846,7 @@
             "open_issues": 0,
             "owner": "pinecoders",
             "repo": "pine-utils",
-            "stars": 444,
+            "stars": 445,
             "topics": [
               "boilerplates",
               "guides",
@@ -868,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:48:29.265Z",
+    "last_updated": "2026-11-26T03:13:45.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Comprehensive Collection of Everything Related to Tradingview Pine Script. ",
@@ -880,7 +887,7 @@
       "open_issues": 13,
       "owner": "pAulseperformance",
       "repo": "awesome-pinescript",
-      "stars": 1993,
+      "stars": 1997,
       "topics": [
         "algorithmic-trading",
         "awesome",
