@@ -101,7 +101,7 @@
 
 ### Screeners
 
-* [TradingView Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,374 | 🐛 3 | 🌐 Python | 📅 2026-11-26 - A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.
+* [TradingView Screener](https://github.com/shner-elmo/TradingView-Screener) ⭐ 1,375 | 🐛 3 | 🌐 Python | 📅 2026-11-27 - A Python package that lets you create TradingView screeners by interacting directly with TradingView's API.
 * [Indices Sector Sigma Spikes](https://www.tradingview.com/script/B3aLMAHh-Indices-Sector-SigmaSpikes/) - Aims to provide a bird's-eye view across sector indices, to find which sector is having a significant or 'out-of-norm' move in either direction.
 * [Mean Reversion Channel](https://www.tradingview.com/script/Lr5QD0kK-Screener-Mean-Reversion-Channel/) - Scans through up to 40 symbols and lists the symbols that are currently within the overbought or oversold zone as defined by the Mean Reversion Channel indicator.
 * [120 Ticker Screener](https://www.tradingview.com/script/0h0gKNcy-120x-ticker-screener-composite-tickers/) - In specific circumstances it is possible to extract data far above the 40 `request.*()` call limit for one script.
@@ -198,11 +198,11 @@ because a reader looking for automation is not looking for a notifier.
 
 The language used to be locked to the platform. These projects run a Pine script from your own machine or browser, against your own OHLCV data.
 
-* [PineTS](https://github.com/LuxAlgo/PineTS) ⭐ 984 | 🐛 50 | 🌐 TypeScript | 📅 2026-11-13 - Transpiler and runtime that executes Pine Script indicators and strategies outside TradingView, published as the `pinets` npm package.
-* [pynecore](https://github.com/PyneSys/pynecore) ⭐ 282 | 🐛 4 | 🌐 Python | 📅 2026-11-23 - A Pine Script-compatible Python runtime for indicators and strategies, aimed at backtesting and live execution from Python.
-* [pineforge-engine](https://github.com/pineforge-4pass/pineforge-engine) ⭐ 217 | 🐛 52 | 🌐 C++ | 📅 2026-11-27 - Open-source C++17 engine for backtesting and forward execution of Pine strategies at speed.
-* [DegenView](https://github.com/degenview/degenview) ⭐ 163 | 🐛 62 | 🌐 Rust | 📅 2026-11-27 - An open-source TradingView alternative that renders Pine scripts on its own charts.
-* [OpenPineScript](https://github.com/be-thomas/OpenPineScript) ⭐ 81 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25 - Open-source Pine Script compiler and runtime for v1 through v6, in Node.js, the browser or Python.
+* [PineTS](https://github.com/LuxAlgo/PineTS) ⭐ 990 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-13 - Transpiler and runtime that executes Pine Script indicators and strategies outside TradingView, published as the `pinets` npm package.
+* [pynecore](https://github.com/PyneSys/pynecore) ⭐ 282 | 🐛 4 | 🌐 Python | 📅 2026-11-27 - A Pine Script-compatible Python runtime for indicators and strategies, aimed at backtesting and live execution from Python.
+* [pineforge-engine](https://github.com/pineforge-4pass/pineforge-engine) ⭐ 217 | 🐛 48 | 🌐 C++ | 📅 2026-11-28 - Open-source C++17 engine for backtesting and forward execution of Pine strategies at speed.
+* [DegenView](https://github.com/degenview/degenview) ⭐ 180 | 🐛 74 | 🌐 Rust | 📅 2026-11-28 - An open-source TradingView alternative that renders Pine scripts on its own charts.
+* [OpenPineScript](https://github.com/be-thomas/OpenPineScript) ⭐ 82 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25 - Open-source Pine Script compiler and runtime for v1 through v6, in Node.js, the browser or Python.
 
 <a name="Development-Tools" />
 
@@ -244,4 +244,4 @@ The language used to be locked to the platform. These projects run a Pine script
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
